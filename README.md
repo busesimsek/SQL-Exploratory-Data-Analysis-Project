@@ -1,9 +1,11 @@
-# Exploratory Data Analysis (EDA) of Layoffs Data Using MySQL
+<img src="https://cdn.activestate.com/wp-content/uploads/2019/08/exploratory-data-analysis-using-python-blog-hero.jpg" width="100%">
+
+# Exploratory Data Analysis (EDA) of 2022 Layoffs
 
 ## Table of Contents  
-- [Project Overview](#project-overview)  
-- [Dataset](#dataset)  
-- [Key Findings](#key-findings)  
+1. [Project Overview](#project-overview)  
+2. [Dataset](#dataset)  
+3. [Key Findings](#key-findings)  
   - [Date Range of Layoff Data](#date-range-of-layoff-data)  
   - [Largest Layoffs](#largest-layoffs)  
   - [Companies with Entire Workforce Laid Off](#companies-with-entire-workforce-laid-off)  
@@ -14,14 +16,18 @@
   - [Total Layoffs by Year](#total-layoffs-by-year)  
   - [Layoffs by Company Stage](#layoffs-by-company-stage)  
   - [Top Layoff Companies by Year](#top-layoff-companies-by-year)  
-- [Methodology](#methodology)  
-- [Conclusion](#conclusion)  
-- [Future Work](#future-work)  
-- [How to Use This Project](#how-to-use-this-project)  
+4. [Methodology](#methodology)  
+5. [Conclusion](#conclusion)  
+6. [Future Work](#future-work)  
+7. [How to Use This Project](#how-to-use-this-project)
+8. [Contact](#contact)
 
+---
 
 ## Project Overview
 This project performs an exploratory data analysis (EDA) on a dataset containing layoff information from various companies using MySQL. The dataset includes details on layoffs across different industries, countries, and years, starting from March 11, 2020, through November 22, 2024. The purpose of this analysis is to uncover trends, patterns, and insights related to layoffs over time.
+
+---
 
 ## Dataset
 The dataset used in this project is named `layoffs_staging2`, which contains information about layoffs such as:
@@ -32,6 +38,8 @@ The dataset used in this project is named `layoffs_staging2`, which contains inf
 - Number of employees laid off (`total_laid_off`)
 - Percentage of employees laid off (`percentage_laid_off`)
 - Company stage (e.g., startup, post-IPO, etc.)
+
+---
 
 ## Key Findings
 
@@ -115,6 +123,8 @@ The dataset used in this project is named `layoffs_staging2`, which contains inf
 | 2023 | Amazon   | *Highest*      |
 | 2024 | Intel    | *Highest*      |
 
+---
+
 ## Methodology
 This analysis was conducted using MySQL queries, without the use of data visualization tools. The queries include:
 - Aggregations (SUM, MAX, MIN)
@@ -122,8 +132,12 @@ This analysis was conducted using MySQL queries, without the use of data visuali
 - Window functions (DENSE_RANK for ranking companies by year)
 - CTEs (Common Table Expressions) for rolling totals and rankings
 
+---
+
 ## Conclusion
 This EDA provides insights into layoff trends across industries, countries, and years, revealing significant events such as mass layoffs in large corporations and post-COVID-19 effects. The data suggests that layoffs peaked in **2023**, with **Amazon, Meta, and Intel** being the most affected companies.
+
+---
 
 ## Future Work
 - **Data Visualization:** Using Tableau or Power BI to create charts and graphs for better insights.
@@ -134,3 +148,9 @@ This EDA provides insights into layoff trends across industries, countries, and 
 1. Clone the repository.
 2. Load the dataset into MySQL.
 3. Run the provided SQL queries to explore the dataset.
+
+---
+
+## Contact
+
+For questions or feedback, feel free to reach out to me on GitHub or via email.
