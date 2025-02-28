@@ -6,16 +6,16 @@
 1. [Project Overview](#project-overview)  
 2. [Dataset](#dataset)  
 3. [Key Findings](#key-findings)  
-  - [Date Range of Layoff Data](#date-range-of-layoff-data)  
-  - [Largest Layoffs](#largest-layoffs)  
-  - [Companies with Entire Workforce Laid Off](#companies-with-entire-workforce-laid-off)  
-  - [Companies with the Highest Total Layoffs](#companies-with-the-highest-total-layoffs)  
-  - [Industries with the Highest Total Layoffs](#industries-with-the-highest-total-layoffs)  
-  - [Countries with the Highest Total Layoffs](#countries-with-the-highest-total-layoffs)  
-  - [Dates with the Highest Total Layoffs](#dates-with-the-highest-total-layoffs)  
-  - [Total Layoffs by Year](#total-layoffs-by-year)  
-  - [Layoffs by Company Stage](#layoffs-by-company-stage)  
-  - [Top Layoff Companies by Year](#top-layoff-companies-by-year)  
+    - [Date Range of Layoff Data](#date-range-of-layoff-data)  
+    - [Largest Layoffs](#largest-layoffs)  
+    - [Companies with Entire Workforce Laid Off](#companies-with-entire-workforce-laid-off)  
+    - [Companies with the Highest Total Layoffs](#companies-with-the-highest-total-layoffs)  
+    - [Industries with the Highest Total Layoffs](#industries-with-the-highest-total-layoffs)  
+    - [Countries with the Highest Total Layoffs](#countries-with-the-highest-total-layoffs)  
+    - [Dates with the Highest Total Layoffs](#dates-with-the-highest-total-layoffs)  
+    - [Total Layoffs by Year](#total-layoffs-by-year)  
+    - [Layoffs by Company Stage](#layoffs-by-company-stage)  
+    - [Top Layoff Companies by Year](#top-layoff-companies-by-year)  
 4. [Methodology](#methodology)  
 5. [Conclusion](#conclusion)  
 6. [Future Work](#future-work)  
@@ -30,6 +30,14 @@ This project performs an exploratory data analysis (EDA) on a dataset containing
 ---
 
 ## Dataset
+The dataset used in this project is a **cleaned version** of layoff data, which was processed in my previous project:  
+
+🔗 **[Data Cleaning for 2022 Layoffs](https://github.com/busesimsek/SQL-Data-Cleaning-Project)**  
+
+The cleaned dataset is available in this repository as:
+
+📄 `cleaned_data_for_EDA.csv`
+
 The dataset used in this project is named `layoffs_staging2`, which contains information about layoffs such as:
 - Company name
 - Industry
@@ -143,6 +151,8 @@ This EDA provides insights into layoff trends across industries, countries, and 
 - **Data Visualization:** Using Tableau or Power BI to create charts and graphs for better insights.
 - **Predictive Analysis:** Applying machine learning techniques to forecast future layoffs.
 - **Deeper Industry-Specific Analysis:** Investigating layoffs based on business performance.
+
+---
 
 ## How to Use This Project
 1. Clone the repository.
