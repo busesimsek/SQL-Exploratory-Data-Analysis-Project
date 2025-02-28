@@ -1,0 +1,2904 @@
+company,YEAR(`DATE`),SUM(total_laid_off)
+Amazon,2023,17260
+Intel,2024,15062
+Tesla,2024,14500
+Google,2023,12115
+Microsoft,2023,11158
+Meta,2022,11000
+Amazon,2022,10150
+Meta,2023,10000
+Cisco,2024,9850
+Ericsson,2023,8500
+Flink,2023,8100
+Salesforce,2023,8050
+SAP,2024,8000
+Uber,2020,7525
+Micron,2023,7200
+Dell,2023,6650
+Dell,2024,6000
+Philips,2023,6000
+Booking.com,2020,4375
+Cisco,2022,4100
+Peloton,2022,4084
+Carvana,2022,4000
+Philips,2022,4000
+Toshiba,2024,4000
+IBM,2023,3900
+Twitter,2022,3700
+Bytedance,2021,3600
+Microsoft,2024,3550
+Paytm,2024,3500
+Getir,2024,3300
+Better.com,2022,3000
+Cerner,2023,3000
+SAP,2023,3000
+Seagate,2022,3000
+Xerox,2024,3000
+VMware,2023,2837
+Groupon,2020,2800
+Amdocs,2023,2700
+Getir,2023,2600
+PayPal,2024,2585
+Byju's,2023,2500
+Byju's,2022,2500
+Katerra,2021,2434
+Spotify,2023,2315
+Gopuff,2022,2300
+"OLX Group",2023,2300
+Shopify,2023,2300
+Crypto.com,2022,2260
+Swiggy,2020,2250
+Indeed,2023,2200
+UKG,2024,2200
+Farfetch,2024,2000
+PayPal,2023,2000
+Zillow,2021,2000
+Airbnb,2020,1900
+Instacart,2021,1877
+Intuit,2024,1800
+Unity,2024,1800
+"WhiteHat Jr",2021,1800
+Wayfair,2023,1750
+"Just Eat",2023,1700
+Wayfair,2024,1650
+Northvolt,2024,1600
+Yahoo,2023,1600
+Agoda,2020,1500
+Expedia,2024,1500
+PaisaBazaar,2020,1500
+PuduTech,2022,1500
+Twilio,2023,1500
+Unacademy,2022,1500
+Infineon,2024,1400
+Ola,2020,1400
+"Stitch Fix",2020,1400
+LinkedIn,2023,1376
+Qualcomm,2023,1372
+Google,2024,1357
+Redfin,2022,1332
+TikTok,2024,1310
+"GoTo Group",2022,1300
+"Lam Research",2023,1300
+"Lucid Motors",2023,1300
+SolarEdge,2024,1300
+Stone,2020,1300
+Toast,2020,1300
+Vacasa,2023,1300
+Zoom,2023,1300
+Snap,2022,1280
+DoorDash,2022,1250
+OYO,2020,1250
+Ola,2022,1200
+OpenText,2024,1200
+Unity,2023,1199
+Coinbase,2022,1160
+Shopify,2022,1120
+Vacasa,2024,1120
+Vedantu,2022,1109
+"Capital One",2023,1100
+Flipkart,2024,1100
+Kraken,2022,1100
+Sabre,2023,1100
+Viasat,2023,1100
+Salesforce,2022,1090
+Thoughtworks,2023,1079
+Doma,2022,1075
+Lyft,2023,1072
+Yelp,2020,1063
+Copia,2024,1060
+Robinhood,2022,1053
+Qualtrics,2023,1050
+Stripe,2022,1050
+AMD,2024,1000
+Binance,2023,1000
+Block,2024,1000
+"Butler Hospitality",2022,1000
+Bytedance,2023,1000
+Citrix,2024,1000
+eBay,2024,1000
+FNZ,2023,1000
+Grab,2023,1000
+"Hyland Software",2023,1000
+IBM,2024,1000
+Indeed,2024,1000
+Invitae,2022,1000
+"Magic Leap",2020,1000
+Ocado,2023,1000
+Paytm,2023,1000
+Redbox,2024,1000
+"Reliance JioMart",2023,1000
+Revel,2024,1000
+Salesforce,2020,1000
+Salesforce,2024,1000
+Informatica,2023,995
+Noom,2022,995
+Lyft,2020,982
+"Electronic Arts",2023,980
+LinkedIn,2020,960
+NetApp,2023,960
+"Stitch Fix",2023,958
+Bytedance,2024,950
+Coinbase,2023,950
+OneTrust,2022,950
+Curefit,2020,920
+Better.com,2021,900
+Bitwise,2023,900
+"Black Shark",2023,900
+Cruise,2023,900
+Jumia,2022,900
+Juul,2020,900
+"Sony Interactive",2024,900
+TripAdvisor,2020,900
+"Epic Games",2023,870
+Wayfair,2022,870
+Loft,2022,855
+Playtika,2022,850
+WeWork,2020,850
+Gorillas,2022,840
+Rivian,2022,840
+Zulily,2023,839
+Splunk,2023,825
+Arrival,2023,800
+CoverMyMeds,2023,800
+GoHealth,2022,800
+Klarna,2022,800
+Shutterfly,2021,800
+"Skip the Dishes",2024,800
+Twilio,2022,800
+Vroom,2024,800
+Xero,2023,800
+Intel,2023,794
+"Flywheel Sports",2020,784
+Chegg,2024,760
+Lyft,2022,760
+"Red Hat",2023,760
+Cazoo,2022,750
+Reef,2022,750
+Sema4,2022,750
+"Cue Health",2024,749
+F5,2023,743
+Compass,2022,721
+Intuit,2020,715
+Apple,2024,714
+MakeMyTrip,2020,700
+MindBody,2020,700
+ShareChat,2023,700
+"Zebra Technologies",2023,700
+DocuSign,2023,680
+DocuSign,2022,671
+"Electronic Arts",2024,670
+Deliv,2020,669
+Freshworks,2024,660
+"Misfits Market",2023,649
+Flexport,2023,640
+Katerra,2020,640
+HelloFresh,2022,611
+Vroom,2022,607
+Shutterfly,2023,606
+"1K Kirana",2023,600
+Bybit,2022,600
+Cars24,2022,600
+"GoTo Group",2023,600
+MFine,2022,600
+Opendoor,2020,600
+OYO,2022,600
+"Skill Lync",2023,600
+"Argo AI",2022,582
+Take-Two,2024,579
+Opendoor,2023,560
+Roku,2023,560
+Infarm,2022,550
+Motional,2024,550
+Opendoor,2022,550
+Toast,2024,550
+Careem,2020,536
+Convoy,2023,530
+GoDaddy,2023,530
+"Riot Games",2024,530
+Udaan,2022,530
+Dropbox,2024,527
+Workday,2023,525
+Blend,2022,520
+eBay,2023,520
+Zomato,2020,520
+SecureWorks,2023,512
+Netflix,2022,505
+Affirm,2023,500
+Alerzo,2023,500
+Atlassian,2023,500
+Avo,2022,500
+Blackbaud,2023,500
+Byju's,2024,500
+Cimpress,2023,500
+Dropbox,2023,500
+Eaze,2024,500
+"Enphase Energy",2024,500
+Eventbrite,2020,500
+Flyhomes,2022,500
+Groupon,2023,500
+Groupon,2022,500
+HubSpot,2023,500
+Illumina,2022,500
+Jump,2020,500
+Lendingkart,2020,500
+Loggi,2022,500
+"Ola Electric",2024,500
+PagBank,2023,500
+Paytm,2020,500
+Snap,2024,500
+TomTom,2022,500
+Twitch,2024,500
+WeDoctor,2022,500
+Blend,2023,490
+Pegasystems,2023,485
+Seagate,2023,480
+SiriusXM,2023,475
+Rapid7,2023,470
+Gympass,2020,467
+"Root Insurance",2022,467
+"Lending Club",2020,460
+iRobot,2024,455
+GoDaddy,2020,451
+OneWeb,2020,451
+UiPath,2022,451
+Dunzo,2023,450
+Hootsuite,2022,450
+Livspace,2020,450
+Meesho,2022,450
+Olive,2022,450
+Sophos,2023,450
+Viaplay,2023,450
+Workrise,2022,450
+Zepz,2023,450
+DocuSign,2024,440
+"Juniper Networks",2023,440
+Amazon,2024,430
+Gojek,2020,430
+Zendesk,2022,430
+UIPath,2024,420
+Bird,2020,406
+Wish,2023,405
+"AliExpress Russia",2022,400
+Cerebral,2022,400
+Cvent,2020,400
+Enjoy,2022,400
+ezCater,2020,400
+"Ginkgo Bioworks",2024,400
+Grubhub,2023,400
+Juul,2022,400
+Kraken,2024,400
+Kry,2022,400
+"Lucid Motors",2024,400
+Milkbasket,2023,400
+Milkrun,2023,400
+MindBody,2022,400
+"New Work SE",2024,400
+Okta,2024,400
+Oriente,2020,400
+Peloton,2024,400
+"Pico Interactive",2023,400
+Pluralsight,2022,400
+Sonder,2020,400
+Swiggy,2024,400
+SWVL,2022,400
+ZipRecruiter,2020,400
+"Lending Club",2023,397
+Vroom,2023,395
+Renmoney,2020,391
+Glovo,2023,390
+"Just Eat Takeaway",2022,390
+Neon,2023,390
+Cue,2023,388
+Checkr,2024,382
+Hopin,2022,380
+Swiggy,2023,380
+"Clear Capital",2022,378
+Compass,2020,375
+Wex,2024,375
+CommerceHub,2023,371
+Wix,2023,370
+Deliveroo,2020,367
+Nubank,2023,366
+Upstart,2023,365
+Grab,2020,360
+Moladin,2023,360
+iFood,2023,355
+Bumble,2024,350
+Cisco,2023,350
+Copia,2023,350
+Deliveroo,2023,350
+"Enphase Energy",2023,350
+Grail,2024,350
+"Green Labs",2023,350
+Meero,2022,350
+MPL,2023,350
+Sea,2022,350
+Selina,2023,350
+SkipTheDishes,2022,350
+Toppr,2022,350
+TuSimple,2022,350
+KeepTruckin,2020,349
+"Moxion Power",2024,349
+Ebanx,2022,340
+Loft,2023,340
+Noon,2023,340
+Nuro,2023,340
+Oportun,2023,340
+"Sage Therapeutics",2020,340
+Evolve,2023,339
+IAC,2024,330
+Luno,2023,330
+Niantic,2023,330
+"Stitch Fix",2022,330
+Freshly,2022,329
+"Cue Health",2023,326
+Truepill,2022,325
+Alteryx,2023,320
+Marvell,2023,320
+Zendesk,2023,320
+Dropbox,2021,315
+"Fate Therapeutics",2023,315
+"Carbon Health",2023,314
+Nuro,2022,307
+Ribbon,2022,306
+Adjust,2024,304
+Coherent,2023,304
+Adda247,2023,300
+Anaplan,2023,300
+AppLovin,2022,300
+Bol.com,2022,300
+"Color Health",2023,300
+Cybereason,2022,300
+"Delivery Hero",2021,300
+Extramarks,2023,300
+Glassdoor,2020,300
+GoStudent,2022,300
+Guild,2024,300
+Huobi,2022,300
+iFit,2022,300
+"Just Eat",2024,300
+Klook,2020,300
+Lacework,2022,300
+"Lightspeed Commerce",2023,300
+Loggi,2023,300
+Logitech,2023,300
+Merative,2023,300
+Okta,2023,300
+Opendoor,2024,300
+Playtika,2024,300
+"Pristyn Care",2023,300
+Proterra,2023,300
+Samsara,2020,300
+"SAP Labs",2023,300
+SEND,2022,300
+Skyscanner,2020,300
+Sojern,2020,300
+"Sono Motors",2023,300
+Spinny,2023,300
+Tekion,2023,300
+"Teladoc Health",2023,300
+Tencent,2023,300
+Trell,2022,300
+TripActions,2020,300
+Veeam,2024,300
+Wave,2022,300
+WayCool,2023,300
+WeWork,2023,300
+"WhiteHat Jr",2022,300
+"Wildlife Studios",2022,300
+Zillow,2022,300
+Zip,2023,300
+Akamai,2023,290
+Navan,2023,290
+"Sage Therapeutics copy",2023,290
+Cerebral,2023,285
+Monzo,2020,285
+Twiga,2023,283
+Brex,2024,282
+"Haven Technologies",2023,280
+"Lightspeed Commerce",2024,280
+Proofpoint,2024,280
+RenoRun,2022,280
+Udemy,2024,280
+FrontRow,2022,275
+Huobi,2023,275
+Latch,2022,275
+Miro,2024,275
+"Pure Storage",2024,275
+Rackspace,2023,275
+Paper,2023,274
+"Western Digital",2023,271
+Bitpanda,2022,270
+BookMyShow,2020,270
+Nikola,2023,270
+Nutanix,2022,270
+Rivian,2024,270
+"Twist Bioscience",2023,270
+WayCool,2024,270
+ZipRecruiter,2023,270
+UKG,2023,265
+Tonal,2022,262
+"Automation Anywhere",2020,260
+Facily,2022,260
+Plaid,2022,260
+RealPage,2024,260
+WeTransfer,2024,260
+"New Relic",2023,255
+Airtable,2022,254
+Meesho,2023,251
+"Western Digital",2022,251
+Akamai,2024,250
+Aptiv,2024,250
+Autodesk,2023,250
+B8ta,2020,250
+"Big Fish Games",2020,250
+BlockFi,2022,250
+Bounce,2020,250
+"Carbon Health",2022,250
+ChargePoint,2024,250
+"Clear Capital",2023,250
+Cornershop,2023,250
+Faire,2023,250
+FarEye,2022,250
+HOOQ,2020,250
+Hopper,2023,250
+Instacart,2024,250
+Magicbricks,2020,250
+Mozilla,2020,250
+"OLX India",2020,250
+SAS,2023,250
+Sonder,2022,250
+Stoqo,2020,250
+Swappie,2022,250
+Swiggy,2022,250
+Thumbtack,2020,250
+TravelTriangle,2020,250
+Unacademy,2024,250
+Verily,2023,250
+ZestMoney,2023,250
+Project44,2023,246
+Innovaccer,2023,245
+ThredUp,2021,243
+"Beyond Meat",2022,240
+Bolt,2022,240
+Highspot,2023,240
+NS8,2020,240
+Twitter,2023,240
+Airtable,2023,237
+Motive,2022,237
+Redfin,2020,236
+Invitae,2023,235
+"Recur Forever",2022,235
+"The RealReal",2020,235
+DealShare,2023,230
+"Embark Trucks",2023,230
+Grammarly,2024,230
+ManoMano,2023,230
+Rupeek,2022,230
+"The RealReal",2023,230
+Snyk,2022,228
+Everlane,2020,227
+Hotmart,2022,227
+Booking.com,2022,226
+Etsy,2023,225
+Sarcos,2023,225
+AvantStay,2022,224
+Confluent,2023,221
+Jellysmack,2023,221
+ServiceTitan,2023,221
+"Stay Alfred",2020,221
+Bizzabo,2022,220
+Bungie,2024,220
+"Velodyne Lidar",2023,220
+Zoox,2020,220
+TrueCar,2020,219
+Article,2022,216
+Kiwi.com,2024,216
+"Olive AI",2023,215
+Personio,2024,215
+StepStone,2023,215
+AppFolio,2023,211
+Twiga,2022,211
+AdRoll,2020,210
+Oda,2022,210
+Waymo,2023,209
+Britishvolt,2023,206
+LinkedIn,2024,202
+Intel,2022,201
+"Meow Wolf",2020,201
+Redfin,2023,201
+23andMe,2024,200
+8x8,2022,200
+ABBYY,2024,200
+BlackBuck,2020,200
+Booksy,2020,200
+Bounce,2021,200
+CarDekho,2020,200
+"CareerBuilder + Monster",2024,200
+Chewy,2023,200
+Cornershop,2024,200
+Cuemath,2023,200
+"Daniel Wellington",2022,200
+DataRobot,2020,200
+"Delivery Hero",2024,200
+DigitalOcean,2023,200
+Easee,2023,200
+"Emma Sleep",2024,200
+Eroad,2023,200
+EverBridge,2022,200
+Fareportal,2020,200
+Flymya,2020,200
+Forward,2024,200
+Frontdesk,2024,200
+GoPro,2020,200
+Hirect,2022,200
+Hulu,2023,200
+"Jam City",2022,200
+JD.ID,2022,200
+"Kape Technologies",2023,200
+LendingTree,2022,200
+MediBuddy,2023,200
+Meesho,2020,200
+MX,2022,200
+MyGate,2023,200
+"Navi Technologies",2023,200
+Ninjacart,2021,200
+Ola,2023,200
+Oracle,2022,200
+PayFit,2023,200
+Payoneer,2023,200
+Planetly,2022,200
+"Pocket FM",2024,200
+Pollen,2022,200
+Roku,2022,200
+Shop101,2020,200
+Shopee,2023,200
+Simplilearn,2023,200
+Smava,2022,200
+"Software AG",2023,200
+SoundHound,2023,200
+StockX,2022,200
+StubHub,2020,200
+Synamedia,2023,200
+Uber,2023,200
+Unity,2022,200
+Veeam,2023,200
+VTEX,2022,200
+Wayflyer,2022,200
+Xendit,2024,200
+Yellow.ai,2023,200
+Zenius,2022,200
+Zume,2020,200
+ShareFile,2024,199
+Glints,2022,198
+Ritual,2020,196
+ShopBack,2024,195
+Chainalysis,2023,194
+Rover,2020,194
+LivePerson,2022,193
+CityMall,2022,191
+2TM,2022,190
+Clear,2022,190
+Dock,2022,190
+Five9,2024,190
+McMakler,2022,190
+Snap,2023,190
+"Uber Freight",2023,190
+Wish,2022,190
+Branch,2023,186
+TaskUs,2023,186
+Clearco,2022,185
+Enovix,2023,185
+Rapid,2023,185
+AppLovin,2024,181
+Headspace,2023,181
+Asana,2022,180
+Avaya,2024,180
+BenevolentAI,2023,180
+BigCommerce,2022,180
+Bitso,2022,180
+BuzzFeed,2022,180
+BuzzFeed,2023,180
+Furlenco,2022,180
+Kape,2023,180
+Konfio,2022,180
+Momentive,2022,180
+Ola,2024,180
+Orchard,2022,180
+Planet,2024,180
+Postmates,2021,180
+Procore,2020,180
+"Tier Mobility",2022,180
+Trax,2022,180
+Xiaohongshu,2022,180
+Cogito,2023,177
+Zscaler,2023,177
+Alice,2022,176
+Astronomer,2023,176
+Restaurant365,2020,175
+Weedmaps,2022,175
+Sonos,2020,174
+Intercom,2022,173
+Guild,2023,172
+Telenav,2023,172
+Aspiration,2023,170
+Crejo.Fun,2022,170
+Cue,2022,170
+Discord,2024,170
+Enovix,2024,170
+Favo,2022,170
+Matterport,2023,170
+Mojocare,2023,170
+Mural,2023,170
+Notarize,2022,170
+OwnBackup,2022,170
+"Pear Therapeutics",2023,170
+PolicyGenius,2022,170
+Runtastic,2024,170
+View,2023,170
+Drizly,2024,168
+Gemini,2022,168
+Cameo,2022,167
+MaxMilhas,2020,167
+Veriff,2023,167
+Hubilo,2023,165
+Voi,2022,165
+Swyftx,2022,164
+ConsenSys,2024,163
+"Rad Power Bikes",2022,163
+Carta,2020,161
+AudioCodes,2023,160
+Buser,2022,160
+"Glamyo Health",2023,160
+Happay,2023,160
+"Kayak / OpenTable",2020,160
+"New Relic",2021,160
+QuintoAndar,2022,160
+Rubius,2022,160
+SIRCLO,2022,160
+SiriusXM,2024,160
+Storytel,2024,160
+Thumbtack,2022,160
+Zymergen,2022,160
+Drift,2023,159
+Homie,2022,159
+Inspirato,2023,159
+Wealthsimple,2022,159
+"Happy Money",2022,158
+Calibrate,2022,156
+Chime,2022,156
+"Delivery Hero",2023,156
+8x8,2023,155
+"Cityblock Health",2023,155
+Houzz,2020,155
+WalkMe,2023,155
+"Bridge Connector",2020,154
+ClassPass,2020,154
+"NuScale Power",2024,154
+"Redesign Health",2024,154
+Qualcomm,2022,153
+"Zeus Living",2020,153
+Illumina,2023,151
+Spendesk,2024,151
+6sense,2022,150
+Atlas,2023,150
+Blockchain.com,2022,150
+Bytedance,2022,150
+Celsius,2022,150
+Clutch,2023,150
+Convene,2020,150
+Coursera,2024,150
+Cruise,2020,150
+Curology,2022,150
+Dataminr,2023,150
+Domestika,2022,150
+Dunzo,2024,150
+Fraazo,2022,150
+Fundbox,2022,150
+Glossier,2020,150
+GoCardless,2023,150
+HealthifyMe,2022,150
+HealthifyMe,2024,150
+Instructure,2020,150
+Kavak,2022,150
+LendingTree,2023,150
+Lido,2022,150
+Lummo,2022,150
+mPharma,2023,150
+"Next Insurance",2022,150
+Oda,2024,150
+OneFootball,2023,150
+OneTrust,2020,150
+OrCam,2024,150
+OutSystems,2024,150
+PayU,2022,150
+Pinterest,2023,150
+Pleo,2022,150
+"Project Ronin",2024,150
+Relativity,2022,150
+Robinhood,2023,150
+Scaler,2024,150
+"Share Now",2022,150
+Simpl,2023,150
+"Simple Feast",2022,150
+Sinch,2022,150
+"The Good Glamm Group",2024,150
+TuSimple,2023,150
+"Vah Vah!",2023,150
+"VerSe Innovation",2022,150
+Vesttoo,2023,150
+Weee!,2022,150
+Zoom,2024,150
+Zwift,2022,150
+Healthcare.com,2022,149
+Knotel,2020,147
+Minted,2020,147
+23andMe,2023,146
+IronNet,2022,145
+"On Deck",2022,145
+PrepLadder,2024,145
+Zilingo,2020,144
+Care/of,2024,143
+"Pear Therapeutics",2022,143
+Pipedrive,2022,143
+Chargebee,2022,142
+Exotel,2023,142
+Electric,2023,141
+Bizongo,2020,140
+Bonterra,2023,140
+Bullhorn,2023,140
+"Callisto Media",2022,140
+ChowNow,2022,140
+ContaAzul,2020,140
+Criteo,2024,140
+DraftKings,2023,140
+Foodpanda,2022,140
+ForeScout,2023,140
+FreshBooks,2024,140
+Glassdoor,2023,140
+GoodRx,2022,140
+"Impossible Foods copy",2023,140
+iRobot,2022,140
+Klaviyo,2023,140
+Luminar,2024,140
+Pagaya,2023,140
+Reali,2022,140
+"Science 37",2023,140
+SkyKick,2023,140
+Upstart,2022,140
+"Velodyne Lidar",2020,140
+Yojak,2022,140
+GoPro,2024,139
+Bird,2022,138
+Packable,2022,138
+SSense,2023,138
+Benevity,2023,137
+Bluprint,2020,137
+Upwork,2023,137
+Brex,2022,136
+Omie,2020,136
+Andela,2020,135
+"Foundation Medicine",2023,135
+"Dapper Labs",2022,134
+Edgio,2023,134
+"Perfect Day",2023,134
+Ula,2022,134
+Flexe,2023,131
+"Tome Biosciences",2024,131
+TouchBistro,2020,131
+Amount,2023,130
+AppGate,2022,130
+BeepKart,2024,130
+Blueground,2020,130
+CarGurus,2020,130
+GitLab,2023,130
+"Guardant Health",2023,130
+ID.me,2022,130
+Inspirato,2020,130
+Liftoff,2022,130
+Nikola,2024,130
+Quanterix,2022,130
+SiFive,2023,130
+Simpl,2024,130
+SirionLabs,2023,130
+Sonos,2023,130
+Takl,2020,130
+"Trove Recommerce",2024,130
+Validity,2020,130
+"Vox Media",2023,130
+Wonder,2022,130
+Workhuman,2023,130
+Evernote,2023,129
+"Our Next Energy",2023,128
+Snyk,2023,128
+Trybe,2023,128
+Mindstrong,2023,127
+Bark,2023,126
+Gusto,2023,126
+EasyPost,2020,125
+Inmobi,2024,125
+Malwarebytes,2022,125
+"NCC Group",2023,125
+"Spartan Poker",2023,125
+TripAdvisor,2023,125
+Westwing,2022,125
+Kitopi,2020,124
+Tipalti,2023,123
+Cyren,2023,121
+Biofourmis,2023,120
+BioMarin,2022,120
+Breather,2020,120
+"Captain Fresh",2023,120
+Cure.fit,2024,120
+"Deliveroo Australia",2022,120
+Fabric,2022,120
+Greenhouse,2020,120
+"Hippo Insurance",2023,120
+"Integral Ad Science",2022,120
+Khoros,2022,120
+"Lululemon Studio",2023,120
+MasterClass,2022,120
+McMakler,2023,120
+"Physics Wallah",2023,120
+"Pristyn Care",2024,120
+RigUp,2020,120
+ScaleFocus,2020,120
+Similarweb,2022,120
+SmartNews,2023,120
+Soluto,2022,120
+Taxfix,2023,120
+"Ten Square Games",2023,120
+"Till Payments",2023,120
+Trax,2020,120
+Trustly,2022,120
+UpGrad,2023,120
+Voi,2024,120
+WillowTree,2023,120
+ZoomInfo,2023,120
+Zymergen,2021,120
+"Blue Nile",2023,119
+Miro,2023,119
+"Nomad Health",2023,119
+Movidesk,2022,118
+Planet,2023,117
+Sprinklr,2024,116
+"Chipper Cash",2023,115
+Knock,2022,115
+"Sierra Space",2023,115
+Skit.ai,2023,115
+Freshworks,2023,114
+Homepoint,2022,113
+Assurance,2024,112
+SoFi,2020,112
+"Analog Devices",2023,111
+"Aurora Solar",2024,111
+Eurora,2023,111
+Illumina,2024,111
+Pier,2023,111
+"Virgin Hyperloop",2022,111
+Blockchain.com,2023,110
+Carousell,2022,110
+"Gro Intelligence",2024,110
+Landing,2022,110
+Namely,2020,110
+"New Relic",2022,110
+NYDIG,2022,110
+Salsify,2023,110
+"Sidecar Health",2022,110
+Unico,2023,110
+Varonis,2022,110
+Curative,2022,109
+ForgeRock,2023,109
+Turo,2020,108
+Sonder,2024,106
+Foursquare,2024,105
+Lattice,2023,105
+Synthego,2022,105
+Greenlight,2023,104
+Satellogic,2024,104
+Socure,2023,104
+Priceline,2024,103
+TrueCar,2023,102
+ShareChat,2020,101
+SummerBio,2022,101
+"10X Genomics",2022,100
+"Adaptive Biotechnologies",2022,100
+Adobe,2022,100
+Akulaku,2020,100
+"Argo AI",2020,100
+Atmosphere,2024,100
+Audible,2024,100
+Babylon,2022,100
+"Berlin Brands Group",2022,100
+BetterUp,2023,100
+Binance.US,2023,100
+"Branch Metrics",2020,100
+Branch.io,2024,100
+"Bright Money",2022,100
+Bryter,2022,100
+Bullhorn,2020,100
+CareRev,2023,100
+Cars24,2023,100
+"Cashfree Payments",2023,100
+Catch.com.au,2023,100
+Chargebee,2023,100
+Checkmarx,2022,100
+Checkout.com,2022,100
+Circ,2020,100
+CircleCI,2024,100
+Cognyte,2022,100
+ConsenSys,2023,100
+Cult.fit,2024,100
+"Delivery Hero",2022,100
+Doximity,2023,100
+Drizly,2023,100
+eGym,2020,100
+"EMX Digital",2023,100
+Envato,2022,100
+eToro,2022,100
+Eventbrite,2024,100
+Everquote,2023,100
+Expedia,2023,100
+F5,2022,100
+F5,2024,100
+FanClash,2023,100
+Fetch,2023,100
+"Fifth Season",2022,100
+"Flatiron School",2020,100
+Freenome,2024,100
+FreshDirect,2024,100
+Gem,2022,100
+Getaround,2020,100
+"Ghost Autonomy",2024,100
+Gopuff,2023,100
+GoStudent,2024,100
+Greenhouse,2023,100
+"Heureka Group",2024,100
+HP,2023,100
+Hyperscience,2022,100
+InSightec,2023,100
+Jodo,2023,100
+Jumio,2023,100
+Jumpcloud,2023,100
+"Kenko Health",2023,100
+"Kitty Hawk",2022,100
+"Lazada Group",2024,100
+LegalZoom,2023,100
+Lemon,2022,100
+Lendi,2023,100
+"Liv Up",2022,100
+Livspace,2023,100
+Lyric,2020,100
+Malwarebytes,2023,100
+Metromile,2020,100
+"Mobile Premier League",2022,100
+Mobileye,2024,100
+nCino,2023,100
+NSO,2022,100
+Orbotech,2024,100
+Pacaso,2022,100
+Pagaya,2024,100
+"Parity Technologies",2023,100
+PatientPop,2020,100
+Pendo,2023,100
+"Phantom Auto",2024,100
+Polygon,2023,100
+Productboard,2022,100
+Progrexion,2022,100
+Remote,2022,100
+"Rock Content",2020,100
+Ruggable,2023,100
+Saks.com,2023,100
+Salesloft,2023,100
+ShareChat,2022,100
+Sisense,2023,100
+Snappy,2023,100
+Sonatype,2023,100
+Sonder,2023,100
+Sonos,2024,100
+Sprinklr,2023,100
+Starry,2023,100
+StockX,2020,100
+Storytel,2022,100
+StreamElements,2023,100
+SumUp,2022,100
+Synopsys,2023,100
+Taboola,2022,100
+Thinkific,2022,100
+"Times Internet",2023,100
+Traveloka,2020,100
+TripleLift,2023,100
+Tul,2023,100
+Udaan,2023,100
+Udayy,2022,100
+Veev,2022,100
+Vendr,2023,100
+Venminder,2024,100
+Voi,2020,100
+Wefox,2023,100
+Wix,2022,100
+"Workit Health",2023,100
+YouTube,2024,100
+Zak,2022,100
+Zipcar,2020,100
+Zomato,2022,100
+Amplitude,2023,99
+Flexe,2024,99
+Glossier,2022,99
+Willow,2022,99
+Solidigm,2023,98
+Colossus,2022,97
+Varo,2023,97
+"Arkane Studios",2024,96
+"Pavilion Data",2022,96
+54gene,2022,95
+BlackLine,2022,95
+BlackLine,2023,95
+"Culture Trip",2020,95
+Edgio,2022,95
+Houzz,2022,95
+Thinx,2024,95
+WHOOP,2022,95
+"Babylon Health",2023,94
+"Divvy Homes",2023,94
+GoFundMe,2022,94
+Karat,2023,94
+Loft,2020,94
+"Newfront Insurance",2020,94
+"PACT Pharma",2022,94
+PetLove,2023,94
+"Back Market",2022,93
+Kitopi,2022,93
+BitTorrent,2023,92
+Scoop,2020,92
+ConsenSys,2020,91
+Leafly,2020,91
+ApplyBoard,2022,90
+Augury,2023,90
+Calm,2022,90
+CityMall,2023,90
+ClickUp,2023,90
+Convoy,2022,90
+"Culture Amp",2023,90
+Domo,2020,90
+"Eightfold AI",2023,90
+FarEye,2023,90
+Figure,2023,90
+Freshworks,2022,90
+GetYourGuide,2020,90
+GumGum,2020,90
+Industrious,2020,90
+Innovaccer,2022,90
+Kueski,2020,90
+Matterport,2020,90
+MessageBird,2024,90
+Mural,2022,90
+Outbrain,2023,90
+Picsart,2022,90
+"Rebellion Defense",2023,90
+Reddit,2023,90
+Salsify,2022,90
+ScaleFactor,2020,90
+"Science 37",2022,90
+"Scribe Media",2023,90
+Seegrid,2022,90
+Staffbase,2023,90
+Sunday,2022,90
+"The Zebra",2022,90
+Workato,2023,90
+Domestika,2023,89
+"Protocol Labs",2023,89
+Unison,2020,89
+BloomTech,2022,88
+Brighte,2022,88
+DispatchHealth,2024,88
+QuintoAndar,2020,88
+"Buy.com / Rakuten",2020,87
+Foodsby,2020,87
+Ibotta,2020,87
+Outside,2022,87
+PathAI,2023,87
+Quandoo,2021,87
+Zenefits,2020,87
+Lever,2020,86
+Synapse,2023,86
+Talent.com,2023,86
+Branch,2024,85
+Crunchyroll,2023,85
+"Funding Circle",2020,85
+iRobot,2023,85
+"Jam City",2024,85
+N26,2023,85
+Niantic,2022,85
+Patreon,2022,85
+Poppulo,2023,85
+Primer,2022,85
+Rev.com,2022,85
+"Singularity 6",2024,85
+Smartsheet,2023,85
+WanderJaunt,2022,85
+Zego,2022,85
+Ejento,2020,84
+Faire,2022,84
+MariaDB,2023,84
+"NextGen Healthcare",2023,84
+Recharge,2022,84
+Sendy,2022,84
+Fluke,2022,83
+Openpay,2023,83
+PayPal,2022,83
+MaxMilhas,2023,82
+Redfin,2024,82
+Remedy,2020,82
+Ancestry,2024,81
+Care.com,2020,81
+Clearcover,2023,81
+Electric,2022,81
+Olo,2023,81
+Paper,2024,81
+Aakash,2024,80
+AlayaCare,2022,80
+"App Annie",2020,80
+Aqgromalin,2022,80
+BillGO,2024,80
+Bittrex,2023,80
+Buenbit,2022,80
+C2FO,2023,80
+Cameo,2023,80
+Checkout.com,2023,80
+Chegg,2023,80
+Chrono24,2022,80
+CoinDCX,2023,80
+Cookpad,2023,80
+"Eat Just",2023,80
+Edgio,2024,80
+Eventbrite,2023,80
+FabHotels,2020,80
+FreshBooks,2023,80
+Gong,2023,80
+Hologram,2022,80
+Indigo,2021,80
+InvestCloud,2023,80
+"Kayak / OpenTable",2023,80
+"Kuku FM",2024,80
+LEAD,2022,80
+LeafLink,2022,80
+Licious,2024,80
+Lightricks,2022,80
+Lime,2020,80
+Mamaearth,2023,80
+Nylas,2022,80
+Otonomo,2022,80
+Pagarbook,2021,80
+Permutive,2023,80
+Pitch,2024,80
+Qoala,2023,80
+Quartz,2020,80
+Qumulo,2022,80
+"Sandbox VR",2020,80
+Sisense,2020,80
+Sketch,2022,80
+Stash,2024,80
+Stoa,2023,80
+TaxBit,2023,80
+"Tier Mobility",2023,80
+Unbabel,2020,80
+Verbit,2022,80
+"VinFast US",2023,80
+Zwift,2023,80
+MasterClass,2023,79
+PropertyGuru,2024,79
+Slickdeals,2023,79
+"Sumo Logic",2023,79
+Trendsales,2024,79
+Ada,2022,78
+Casper,2020,78
+"Komodo Health",2022,78
+Koo,2023,78
+Mogo,2020,78
+"Pulse Secure",2020,78
+Rangle,2020,78
+Spin,2022,78
+BounceX,2020,77
+"Lyra Health",2024,77
+Clutch,2022,76
+Lokalise,2022,76
+Thinkific,2023,76
+Uniphore,2023,76
+99,2022,75
+Airmeet,2023,75
+"Anchorage Digital",2023,75
+"Arrive Logistics",2020,75
+BitMEX,2022,75
+DISCO,2020,75
+"Drip Capital",2023,75
+Gramophone,2023,75
+Kaltura,2023,75
+"Lucid Software",2023,75
+"Magic Leap",2024,75
+Metigy,2022,75
+"O'Reilly Media",2020,75
+Palantir,2023,75
+PeerStreet,2022,75
+Sami,2022,75
+Tackle.io,2023,75
+ThirdLove,2020,75
+Thriver,2020,75
+Varo,2022,75
+VTrips,2023,75
+Zeitgold,2020,75
+"Beam Benefits",2024,74
+Benchling,2023,74
+Outschool,2022,74
+FlightStats,2024,73
+Heycar,2023,73
+"Sana Benefits",2023,73
+Juni,2022,72
+"Quanergy Systems",2022,72
+Properly,2022,71
+TrueLayer,2024,71
+1stdibs,2020,70
+Acast,2022,70
+"Arm Holdings",2023,70
+Aura,2022,70
+Banxa,2022,70
+BenchSci,2024,70
+BitTitan,2021,70
+Bolt.Earth,2024,70
+Boozt,2022,70
+Brightcove,2023,70
+Bungalow,2022,70
+Carwow,2022,70
+DataRobot,2022,70
+Dealtale,2023,70
+F-Secure,2023,70
+Gem,2023,70
+Goodfood,2022,70
+Healthy.io,2023,70
+Hibob,2020,70
+"Hippo Insurance",2022,70
+Hootsuite,2023,70
+"Integral Ad Science",2020,70
+Involves,2022,70
+"Kitty Hawk",2020,70
+KoinWorks,2022,70
+Kyruus,2023,70
+Lightricks,2024,70
+"Momentis Surgical",2023,70
+Moss,2022,70
+Neon,2020,70
+"Oscar Health",2020,70
+Outreach,2023,70
+PickYourTrail,2020,70
+Redbubble,2023,70
+Runtastic,2023,70
+Skillz,2022,70
+Splunk,2020,70
+StudySmarter,2022,70
+Teachmint,2023,70
+Virtudent,2020,70
+Yotpo,2022,70
+"Embark Vet",2023,69
+Gigamon,2024,69
+HashiCorp,2023,69
+iCIMS,2024,69
+Pollen,2020,69
+Socure,2022,69
+"The Iconic",2023,69
+7Shifts,2024,68
+Xing,2023,68
+AgentSync,2023,67
+Ajaib,2022,67
+Bolt,2023,67
+"Osso VR",2024,67
+Outreach,2024,67
+"Redesign Health",2022,67
+"Aqua Security",2022,65
+Balto,2022,65
+"Beyond Meat",2023,65
+BeyondMinds,2022,65
+Chope,2022,65
+Chrono24,2023,65
+Curve,2022,65
+"Funding Societies",2020,65
+InfluxData,2022,65
+"Lambda School",2021,65
+Mixpanel,2020,65
+Otovo,2024,65
+Paxos,2024,65
+Playdots,2022,65
+"Repertoire Immune Medicines",2022,65
+uShip,2020,65
+Veho,2024,65
+"Virta Health",2020,65
+Zoomo,2022,65
+Checkr,2020,64
+Mapbox,2023,64
+Sigfox,2022,64
+"Zeus Living",2022,64
+Nevro,2024,63
+"Pie Insurance",2023,63
+Project44,2022,63
+SynapseFI,2020,63
+UserTesting,2023,63
+Veriff,2020,63
+"Warby Parker",2022,63
+Brex,2020,62
+"CS Disco",2023,62
+divvyDOSE,2022,62
+Ebanx,2020,62
+"Element AI",2020,62
+Numbrs,2020,62
+OneFootball,2022,62
+OrCam,2022,62
+"Tempo Automation",2023,62
+"Bossa Nova",2020,61
+Point,2023,61
+Affirm,2024,60
+Afterverse,2022,60
+Akseleran,2023,60
+Away,2020,60
+BlueStacks,2022,60
+"C6 Bank",2020,60
+Calendly,2023,60
+"Career Karma",2022,60
+ChowNow,2024,60
+CleverTap,2020,60
+ClickUp,2022,60
+"Daily Harvest",2022,60
+Deputy,2020,60
+Dropp,2023,60
+Elementor,2022,60
+Expel,2023,60
+Finder,2024,60
+Fiverr,2022,60
+Flywire,2020,60
+Forto,2022,60
+FourKites,2022,60
+Genesis,2023,60
+Grin,2022,60
+Harappa,2023,60
+Innoviz,2024,60
+Instagram,2024,60
+Latch,2020,60
+LEAD,2023,60
+Linktree,2023,60
+Lunchbox,2022,60
+MadeiraMadeira,2022,60
+"Maven Clinic",2024,60
+"Me Poupe",2023,60
+Melio,2022,60
+Metromile,2022,60
+Mozilla,2024,60
+Nate,2022,60
+Omuni,2023,60
+ON,2024,60
+Optimizely,2020,60
+"Orca Security",2024,60
+Outreach,2022,60
+"Parallel Wireless",2022,60
+Parler,2023,60
+Polygon,2024,60
+Protocol,2022,60
+Qomplx,2023,60
+Quicko,2022,60
+Raken,2020,60
+Revolut,2020,60
+Salsify,2020,60
+Sanar,2022,60
+Shippo,2022,60
+Similarweb,2023,60
+Sirplus,2024,60
+Sisense,2024,60
+TechTarget,2022,60
+"Tilting Point",2023,60
+Uber,2022,60
+Verbit,2023,60
+VerticalScope,2023,60
+WazirX,2022,60
+Wefox,2024,60
+Workmotion,2022,60
+Bonsai,2022,59
+Exodus,2022,59
+Medallia,2023,59
+Medtronic,2023,59
+Pitch,2022,59
+Rasa,2022,59
+"SHINE Technologies",2023,59
+Stord,2022,59
+"The Predictive Index",2020,59
+Bandcamp,2023,58
+Canoo,2022,58
+"Chili Piper",2022,58
+Envoy,2020,58
+Gupy,2023,58
+Hash,2022,58
+"Stack Overflow",2023,58
+CodeClan,2023,57
+"Divergent 3D",2020,57
+Introhive,2022,57
+Loom,2022,57
+Rhino,2022,57
+Rubrik,2020,57
+Splyt,2022,57
+"Carbon Health",2024,56
+Dukaan,2023,56
+Leafly,2022,56
+"The Wing",2020,56
+Vesta,2020,56
+WanderJaunt,2020,56
+"Wave Sports and Entertainment",2022,56
+Wheel,2023,56
+"Definitive Healthcare",2023,55
+GoBolt,2023,55
+Hike,2023,55
+Ludia,2023,55
+"Pomelo Fashion",2022,55
+SalesLoft,2020,55
+Tails.com,2024,55
+Tufin,2022,55
+Udacity,2022,55
+"Urban Sports Club",2022,55
+"When I Work",2020,55
+Actifio,2020,54
+Caliva,2023,54
+"Collective Health",2023,54
+"Flock Freight",2024,54
+Gokada,2023,54
+Marketforce,2022,54
+"Tempo Automation",2022,54
+"The Mom Project",2022,54
+"DHI Group",2023,53
+HackerRank,2023,53
+MediaMath,2020,53
+Ualá,2022,53
+"Bamboo Health",2022,52
+Genesis,2022,52
+Jellysmack,2024,52
+Lemonade,2022,52
+OutboundEngine,2020,52
+Showpad,2020,52
+TaskUs,2022,52
+Cardlytics,2022,51
+"Dapper Labs",2023,51
+Highsnobiety,2020,51
+Mercos,2020,51
+PeerStreet,2020,51
+Turnitin,2022,51
+Acorns,2020,50
+"Ada Health",2022,50
+"Ambev Tech",2023,50
+"American Robotics",2023,50
+Anodot,2022,50
+"Aqua Security",2024,50
+Avidbots,2023,50
+"Axios Media",2024,50
+"Bishop Fox",2023,50
+Bizongo,2023,50
+Breathe,2022,50
+"Built In",2022,50
+"Cake Group",2023,50
+"Chipper Cash",2022,50
+ClearCo,2023,50
+Dazn,2022,50
+DeepVerge,2023,50
+Dragos,2023,50
+Dutchie,2022,50
+Earnin,2020,50
+"Ethos Life",2023,50
+Eucalyptus,2022,50
+Freightos,2023,50
+FullStory,2024,50
+Graphy,2023,50
+"Group Nine Media",2020,50
+Headspace,2022,50
+Iflix,2020,50
+"Imperfect Foods",2022,50
+Impinj,2024,50
+"Impossible Foods",2022,50
+Inmobi,2023,50
+"iPrice Group",2022,50
+"Iron Ox",2022,50
+Jimdo,2022,50
+JOKR,2022,50
+Kontist,2022,50
+Lastline,2020,50
+Linktree,2022,50
+LiveTiles,2020,50
+Lyst,2022,50
+Megaport,2023,50
+Mejuri,2022,50
+"Minute Media",2023,50
+Moov,2024,50
+Myntra,2023,50
+"NanoString Technologies",2024,50
+"Pocket Aces",2023,50
+Puppet,2020,50
+Q4,2022,50
+"Remote Year",2020,50
+Replicated,2022,50
+RingCentral,2022,50
+RiseUp,2024,50
+"Rubicon Project",2020,50
+Segment,2020,50
+Showpad,2024,50
+SkySlope,2020,50
+Sprinklr,2022,50
+Symend,2023,50
+TakeOff,2023,50
+Tibber,2023,50
+Tiendanube,2022,50
+Unico,2022,50
+Vezeeta,2022,50
+"Wahoo Fitness",2022,50
+Warren,2022,50
+"Wave Financial",2023,50
+Wonderschool,2020,50
+Zoopla,2022,50
+SonderMind,2024,49
+Button,2020,48
+Chingari,2023,48
+"First Mode",2024,48
+Guideline,2023,48
+Netlify,2022,48
+Shogun,2022,48
+"Titan Medical",2023,48
+"Alto Pharmacy",2020,47
+Bench,2020,47
+Ecobee,2020,47
+Glovo,2024,47
+HuffPo,2021,47
+Open,2023,47
+Polly,2022,47
+Trybe,2022,47
+Unbounce,2022,47
+AEye,2023,46
+"Akili Labs",2023,46
+"Deep Instict",2023,46
+Payfactors,2020,46
+"Riot Games",2023,46
+"The Athletic",2020,46
+Viant,2022,46
+Wonolo,2020,46
+Acko,2020,45
+Airtasker,2023,45
+Clari,2022,45
+Examedi,2023,45
+"Flock Freight",2023,45
+Freetrade,2022,45
+Hubba,2021,45
+Hubilo,2022,45
+Huma,2023,45
+Intapp,2020,45
+Kissflow,2024,45
+Laybuy,2022,45
+Lemonade,2023,45
+Mainstreet,2022,45
+Nuri,2022,45
+Peek,2020,45
+Pendo,2022,45
+Pilot,2023,45
+SoundHound,2022,45
+TADA,2023,45
+Teachmint,2022,45
+TomTom,2023,45
+Viber,2022,45
+VSCO,2020,45
+Workstream,2022,45
+Zumper,2022,45
+Ahead,2022,44
+CoinSwitch,2023,44
+"Luxury Presence",2023,44
+Passport,2020,44
+Redox,2020,44
+Tomo,2022,44
+"Bustle Digital Group",2020,43
+Chief,2023,43
+Elinvar,2022,43
+Inscripta,2022,43
+Postscript,2022,43
+"Shelf Engine",2022,43
+"Course Hero",2023,42
+Khatabook,2023,42
+"Top Hat",2023,42
+"Unstoppable Domains",2022,42
+Velo3D,2024,42
+Wattpad,2023,42
+Bestow,2022,41
+Food52,2022,41
+Peerspace,2020,41
+Practo,2023,41
+Treehouse,2021,41
+Absci,2022,40
+"Absolute Software",2023,40
+Adwerx,2022,40
+Archipelago,2023,40
+Astra,2020,40
+"Basis Technologies",2023,40
+BharatAgri,2023,40
+BigPanda,2023,40
+BitSight,2023,40
+"Blue Origin",2023,40
+Bounce,2023,40
+"Brave Care",2022,40
+CarTrawler,2024,40
+Clinc,2020,40
+Cloudflare,2024,40
+Cloudinary,2022,40
+Community,2022,40
+Daloopa,2022,40
+"Divvy Homes",2022,40
+Dozee,2024,40
+Drata,2024,40
+"Eden / Managed By Q",2020,40
+Eruditus,2022,40
+Etermax,2022,40
+"Ethos Life",2022,40
+EVgo,2023,40
+Finder,2023,40
+Fly.io,2024,40
+FreshDirect,2022,40
+Grover,2022,40
+Healthy.io,2024,40
+Hodlnaut,2022,40
+Homeday,2023,40
+Ideoclick,2022,40
+Impact.com,2024,40
+Incredibuild,2023,40
+InDebted,2022,40
+Innovid,2023,40
+Intrinsic,2023,40
+KiwiCo,2022,40
+Koo,2022,40
+Labster,2020,40
+Leafly,2023,40
+"Lighter Capital",2020,40
+Loco,2023,40
+Melio,2024,40
+Moglix,2023,40
+"Morning Brew",2023,40
+"Mr Yum",2023,40
+Mux,2022,40
+Mux,2023,40
+Navi,2020,40
+"Oh My Green",2020,40
+"Our Next Energy",2024,40
+"Oye Rickshaw",2022,40
+Parsable,2020,40
+PartnerStack,2023,40
+PaySense,2020,40
+PharmEasy,2022,40
+Quantcast,2022,40
+"Rad Power Bikes",2023,40
+RealSelf,2020,40
+Relevel,2023,40
+Reverb,2024,40
+Riskified,2024,40
+Rivian,2020,40
+Shuttl,2020,40
+"Sight Diagnostics",2024,40
+Siteimprove,2020,40
+Snowplow,2023,40
+SpotHero,2020,40
+Spotify,2024,40
+"Stack Overflow",2020,40
+Stash,2023,40
+"Stash Financial",2022,40
+StrongDM,2023,40
+Submittable,2024,40
+"The Grommet",2022,40
+"The Predictive Index",2022,40
+Tidal,2023,40
+"TikTok India",2023,40
+"Treasury Prime",2024,40
+Tropic,2024,40
+TrueLayer,2022,40
+"Uber Freight",2024,40
+Vial,2023,40
+VideoAmp,2023,40
+Wejo,2023,40
+Wistia,2022,40
+Builder,2020,39
+"Flatiron Health",2023,39
+Goop,2024,39
+Intercom,2020,39
+Jobcase,2020,39
+Kiavi,2022,39
+TheSkimm,2023,39
+"Vox Media",2022,39
+Articulate,2023,38
+Freshbooks,2020,38
+"Immersive Labs",2022,38
+M1,2022,38
+Outbrain,2022,38
+Ritual,2023,38
+"The Guild",2020,38
+AvantStay,2023,37
+Capitolis,2022,37
+Discord,2023,37
+Flockjay,2021,37
+Plex,2023,37
+"Rent the Runway",2024,37
+Springbig,2022,37
+Zeplin,2023,37
+"Ada Support",2020,36
+"Culture Amp",2020,36
+Hireology,2020,36
+"Humble Games",2024,36
+Labelbox,2022,36
+Mejuri,2020,36
+Patreon,2021,36
+Plum,2022,36
+Appsmith,2023,35
+Artsy,2023,35
+"Circus Kitchens",2023,35
+Copper,2020,35
+"Dynamic Signal",2020,35
+Ezoic,2022,35
+Frontdesk,2020,35
+Gloat,2023,35
+Jetty,2020,35
+Kabam,2022,35
+Linkfire,2022,35
+"Monarch Tractor",2024,35
+Monese,2020,35
+OpenX,2020,35
+Perion,2024,35
+Ridecell,2020,35
+Superpedestrian,2022,35
+Sweetgreen,2020,35
+"Top Hat",2024,35
+WeTransfer,2023,35
+Wheel,2022,35
+WorkRamp,2022,35
+Appgate,2023,34
+D2iQ,2020,34
+Grabango,2023,34
+Lev,2023,34
+Lola,2020,34
+TealBook,2022,34
+"Candy Digital",2022,33
+Citizen,2023,33
+ICANN,2024,33
+Movidesk,2020,33
+Paystack,2023,33
+Studio,2022,33
+Vee,2022,33
+Advata,2022,32
+AtoB,2022,32
+Boxed,2023,32
+Loftium,2020,32
+Section4,2022,32
+Stash,2022,32
+"Beam Benefits",2023,31
+CaptivateIQ,2022,31
+Clue,2023,31
+Enjoei,2023,31
+Flex,2023,31
+Maven,2020,31
+Pipedrive,2020,31
+"REE Automotive",2023,31
+Skedulo,2022,31
+Skillshare,2022,31
+Stashaway,2022,31
+Uberflip,2022,31
+7shifts,2023,30
+Absci,2023,30
+Airbnb,2023,30
+Airtime,2022,30
+"Aleph Farms",2024,30
+Athennian,2023,30
+Autograph,2023,30
+Bardee,2023,30
+BeeTech,2020,30
+Betterfly,2022,30
+Bevi,2020,30
+"Blume Global",2020,30
+Booktopia,2023,30
+"Bright Machines",2022,30
+Bullish,2022,30
+"Candy Digital",2023,30
+Catalant,2020,30
+Coinsquare,2022,30
+"Coterie Insurance",2022,30
+CTO.ai,2020,30
+CyCognito,2022,30
+DataRails,2022,30
+Deepwatch,2023,30
+Detectify,2023,30
+Earnix,2023,30
+Edifecs,2023,30
+Embroker,2022,30
+Emotive,2022,30
+EquityZen,2022,30
+Ermetic,2023,30
+Everlane,2023,30
+Fabric,2024,30
+Fi.Money,2023,30
+Fireblocks,2023,30
+FiscalNote,2020,30
+Fittr,2023,30
+Flutterwave,2024,30
+Gather,2022,30
+Getta,2022,30
+Glowforge,2023,30
+HomeLane,2023,30
+Hunty,2022,30
+Hydrow,2023,30
+Impala,2022,30
+Lawgeex,2022,30
+Lev,2022,30
+LivePerson,2020,30
+Lusha,2022,30
+Lyft,2024,30
+Medsaf,2023,30
+"Mensa Brands",2023,30
+MoonPay,2024,30
+Moss,2023,30
+Nav,2020,30
+Nestcoin,2022,30
+OKCredit,2022,30
+Overtime,2020,30
+Patreon,2020,30
+"Pecan AI",2023,30
+People.ai,2020,30
+Permutive,2022,30
+Personetics,2023,30
+Quantcast,2020,30
+Rapyd,2024,30
+Replit,2024,30
+RingCentral,2023,30
+Roblox,2023,30
+Samsung,2023,30
+"Sauce Labs",2020,30
+ShareChat,2024,30
+Shopify,2020,30
+Skai,2022,30
+SQream,2022,30
+"Starship Technologies",2020,30
+Submittable,2020,30
+Superloop,2020,30
+"Syft Technologies",2023,30
+Synapsica,2022,30
+Tanium,2021,30
+TCR2,2022,30
+Teampay,2023,30
+Textio,2020,30
+Thread,2022,30
+Tomorrow,2022,30
+Trigo,2024,30
+"True Anomaly",2024,30
+"Twine Solutions",2023,30
+Veem,2020,30
+Waze,2020,30
+Worksmith,2020,30
+"Xiaomi India",2023,30
+Zencity,2022,30
+"Apartment List",2022,29
+Cabify,2024,29
+"Catena Media",2024,29
+Chessable,2022,29
+GoTo,2024,29
+Matrixport,2023,29
+Nexar,2023,29
+Plato,2022,29
+SchoolMint,2023,29
+Shef,2022,29
+Tickertape,2023,29
+Uncapped,2022,29
+"Vesalius Therapeutics",2022,29
+Bakkt,2024,28
+Betterment,2023,28
+"Built In",2020,28
+Cadre,2020,28
+Cowbell,2023,28
+Moovel,2020,28
+Quanto,2022,28
+SellerX,2022,28
+Stint,2022,28
+Tally,2020,28
+Tilia,2023,28
+Torii,2023,28
+Zum,2020,28
+At-Bay,2023,27
+Brave,2024,27
+Demandbase,2022,27
+LearnUpon,2023,27
+Lithic,2022,27
+PayJoy,2020,27
+SafeGraph,2022,27
+Sendle,2022,27
+"Transmit Security",2022,27
+Vendease,2022,27
+Zoomo,2023,27
+Zymergen,2023,27
+Artnight,2022,26
+Briza,2022,26
+"Chia Network",2023,26
+Foxtrot,2022,26
+Humu,2020,26
+Integrate.ai,2020,26
+"Lucira Health",2023,26
+Preply,2022,26
+TheSkimm,2020,26
+Tropic,2023,26
+"Upside Foods",2024,26
+Wordstream,2020,26
+Armis,2022,25
+Brainly,2022,25
+BVAccel,2020,25
+Cart.com,2023,25
+Code42,2020,25
+Eaze,2022,25
+Equitybee,2022,25
+Glisser,2023,25
+HighRadius,2022,25
+IRL,2022,25
+Kickstarter,2020,25
+Loftsmart,2020,25
+"Loja Integrada",2022,25
+"Mode Analytics",2022,25
+Namogoo,2022,25
+Nexar,2022,25
+ResearchGate,2022,25
+TradeWindow,2023,25
+"Tulip Retail",2023,25
+UpScalio,2023,25
+Vise,2022,25
+Workable,2020,25
+"Aqua Security",2020,24
+Cogito,2020,24
+CrowdStreet,2020,24
+Drop,2022,24
+Equitybee,2023,24
+Exterro,2023,24
+Flipboard,2022,24
+Heroes,2022,24
+Highsnobiety,2023,24
+Hodinkee,2023,24
+Niche,2024,24
+Okta,2022,24
+Plume,2023,24
+Revelate,2022,24
+Rivos,2023,24
+Sourcegraph,2022,24
+Stax,2023,24
+SundaySky,2022,24
+"The Messenger",2024,24
+"Thirty Madison",2022,24
+TIFIN,2022,24
+Tome,2024,24
+Transfix,2020,24
+Truiloo,2022,24
+Xolo,2023,24
+Allbirds,2022,23
+"Antidote Health",2022,23
+Aspire,2022,23
+BusBud,2020,23
+Dover,2022,23
+Dukaan,2022,23
+"Genome Medical",2022,23
+GoSpotCheck,2020,23
+iCAD,2023,23
+"Komodo Health",2020,23
+Kuda,2022,23
+Legible,2022,23
+LOOP,2024,23
+Ritual,2022,23
+Splice,2022,23
+Stedi,2022,23
+Superhuman,2022,23
+Tonkean,2022,23
+TripleLift,2020,23
+Zillow,2023,23
+Away,2023,22
+"Career Karma",2023,22
+Centr,2023,22
+"Citrine Informatics",2023,22
+Clyde,2022,22
+CommonBond,2022,22
+"Credit Sesame",2020,22
+GoBear,2020,22
+InVision,2021,22
+"Magic Eden",2023,22
+Pipl,2022,22
+Sherpa,2022,22
+Sorare,2024,22
+TextNow,2022,22
+BlissClub,2024,21
+Gitpod,2023,21
+"Ninja Van",2024,21
+Pocketmath,2021,21
+Shakepay,2023,21
+Skillz,2020,21
+StellarAlgo,2023,21
+Teamwork,2020,21
+VideoAmp,2020,21
+Addepar,2023,20
+Albert,2022,20
+Amperity,2024,20
+AngelList,2020,20
+Argyle,2022,20
+Atera,2024,20
+"Bleacher Report",2020,20
+C2FO,2022,20
+Caliva,2020,20
+"Chipper Cash",2024,20
+Clari,2023,20
+Cohere,2024,20
+Crayon,2020,20
+Deepgram,2023,20
+Drip,2020,20
+Eatsy,2020,20
+Factorial,2023,20
+Fireblocks,2024,20
+FlexCar,2023,20
+Gokada,2022,20
+GrayMeta,2020,20
+Identiq,2024,20
+Immutable,2022,20
+InfoSum,2022,20
+"Insider Intelligence",2023,20
+JetClosing,2020,20
+Karma,2023,20
+Lightico,2022,20
+Lightico,2023,20
+Moovit,2024,20
+Namogoo,2023,20
+"New Relic",2020,20
+NuoDB,2020,20
+Ocavu,2022,20
+Opal,2020,20
+"Perimeter 81",2022,20
+Perion,2022,20
+Privitar,2021,20
+Quidax,2022,20
+Rivian,2023,20
+"Sales Boomerang",2022,20
+Shipsi,2020,20
+Sightful,2024,20
+Solarisbank,2023,20
+"Stability AI",2024,20
+Stream,2022,20
+"Tamara Mellon",2020,20
+"The Sill",2020,20
+Thimble,2022,20
+Toothsi,2023,20
+TravelBank,2020,20
+TytoCare,2023,20
+Virgio,2023,20
+Wattpad,2024,20
+Xentral,2022,20
+#Paid,2023,19
+AU10TIX,2023,19
+CoinTracker,2023,19
+Intersect,2020,19
+"Lambda School",2020,19
+Loop,2023,19
+Stytch,2023,19
+UPshow,2020,19
+"Wint Wealth",2024,19
+"Ethos Life",2020,18
+FamPay,2023,18
+Glitch,2020,18
+HealthMatch,2022,18
+Homebot,2022,18
+Incredibuild,2024,18
+Kenoby,2020,18
+Lendis,2022,18
+Opencare,2020,18
+Pana,2020,18
+Rows,2022,18
+Sharethrough,2020,18
+Tidepool,2020,18
+Yonder,2020,18
+Amplero,2020,17
+Anagram,2020,17
+Clearbanc,2020,17
+"Community Gaming",2023,17
+Connected,2020,17
+Crossbeam,2023,17
+G2,2020,17
+"Mode Analytics",2020,17
+Sensibill,2020,17
+Shein,2024,17
+Synctera,2024,17
+Ynsect,2023,17
+Zenoti,2020,17
+Avocargo,2023,16
+Baton,2022,16
+C2FO,2024,16
+ContraFect,2022,16
+EverC,2024,16
+"Finite State",2022,16
+FreightWaves,2024,16
+Help.com,2020,16
+Inuitive,2024,16
+Koinly,2022,16
+Lattice,2020,16
+"OFFOR Health",2023,16
+Rhumbix,2020,16
+SeekOut,2023,16
+"Top Hat",2020,16
+"TRM Labs",2023,16
+Airtame,2022,15
+"Atlas Obscura",2020,15
+Boost,2023,15
+Borrowell,2020,15
+"Clarify Health",2022,15
+DataStax,2020,15
+Forma.ai,2022,15
+"Horizn Studios",2020,15
+Kaleidoscope,2023,15
+"Kodiak Robotics",2020,15
+Koho,2022,15
+Loop,2022,15
+Retention.com,2024,15
+"Roblox China",2023,15
+Seedr,2024,15
+Smallcase,2023,15
+Teleport,2022,15
+Textio,2023,15
+Triplebyte,2020,15
+Turnitin,2024,15
+Usermind,2020,15
+Vouch,2022,15
+Walnut,2024,15
+"Finleap Connect",2022,14
+Fundbox,2020,14
+"G/O Media Group",2020,14
+"Lighthouse Labs",2020,14
+OpenWeb,2022,14
+PayScale,2023,14
+Textio,2024,14
+"Treasure Financial",2024,14
+"Tulip Retail",2020,14
+Amperity,2022,13
+Arc,2022,13
+Bridgit,2022,13
+Consider.co,2020,13
+Fable,2023,13
+GrabCAD,2024,13
+"Ladder Life",2020,13
+Lattice,2022,13
+Limelight,2021,13
+"No Fluff Jobs",2023,13
+"Politico / Protocol",2020,13
+Substack,2022,13
+"Sword Health",2024,13
+Syte,2022,13
+"The Org",2022,13
+Tor,2020,13
+"Trove Recommerce",2020,13
+"Vivian Health",2024,13
+"100 Thieves",2022,12
+Abra,2022,12
+BookClub,2022,12
+CNET,2023,12
+"Descartes Labs",2020,12
+Dooly,2022,12
+DSCO,2020,12
+Hedvig,2022,12
+Jama,2020,12
+Kongregate,2020,12
+MakerBot,2020,12
+MVPindex,2024,12
+Pliops,2022,12
+PubMatic,2024,12
+Anywell,2022,11
+Compete,2022,11
+Cypress.io,2024,11
+Deadspin,2024,11
+GetNinjas,2020,11
+Loopio,2020,11
+Peloton,2023,11
+RealSelf,2022,11
+Venngage,2023,11
+Bringg,2020,10
+CoinJar,2022,10
+"Digital Currency Gruop",2022,10
+Dotscience,2020,10
+"Element Analytics",2020,10
+Ezoic,2023,10
+Forward,2020,10
+"Her Campus Media",2020,10
+Humane,2024,10
+Humble,2022,10
+Ike,2020,10
+Nori,2023,10
+PerkSpot,2020,10
+Polarr,2020,10
+Slite,2023,10
+Swyft,2022,10
+"Tapps Games",2022,10
+Tripbam,2020,10
+"Welkin Health",2020,10
+Xerpa,2020,10
+&Open,2022,9
+Andgo,2023,9
+BitOasis,2022,9
+"Incredible Health",2020,9
+"Iris Nova",2020,9
+N26,2020,9
+Captiv8,2023,8
+Center,2024,8
+CodeCombat,2020,8
+Docly,2020,8
+HopSkipDrive,2020,8
+JupiterOne,2023,8
+Kinde,2023,8
+LoopMe,2020,8
+"Meow Wolf",2023,8
+"Voyage SMS",2022,8
+"Coding Dojo",2020,7
+Expert360,2022,7
+TechCrunch,2024,7
+Atsu,2020,6
+Character.ai,2024,6
+Dark,2020,6
+Instamojo,2020,6
+Jiobit,2020,6
+Mara,2023,6
+"Panda Squad",2020,6
+"Simon Data",2020,6
+"Avantage Entertainment",2020,5
+Aya,2020,5
+DialSource,2020,5
+Geekwire,2020,5
+"Glean AI",2023,5
+Havenly,2020,5
+Synergysuite,2020,5
+Woven,2022,5
+Flytedesk,2020,4
+Spyce,2020,4
+TutorMundi,2020,4
+Branch,2020,3
+2U,2022,NULL
+"5B Solar",2022,NULL
+"80 Acres Farms",2023,NULL
+98point6,2022,NULL
+ActiveCampaign,2022,NULL
+Actyv.ai,2023,NULL
+Affirm,2022,NULL
+Air,2020,NULL
+Airlift,2022,NULL
+Airmeet,2024,NULL
+"Airy Rooms",2020,NULL
+Aiven,2023,NULL
+"Akili Interactive",2024,NULL
+Akudo,2023,NULL
+"ALI Technologies",2024,NULL
+"Alibaba Cloud",2023,NULL
+Alma,2024,NULL
+"Amber Group",2022,NULL
+Amount,2022,NULL
+Anar,2023,NULL
+AnswerLab,2023,NULL
+Anyline,2023,NULL
+Apollo,2022,NULL
+"Apollo Insurance",2022,NULL
+Appcues,2023,NULL
+AppHarvest,2023,NULL
+ApplyBoard,2024,NULL
+"Arch Oncology",2023,NULL
+Arrival,2022,NULL
+Artifact,2024,NULL
+Assure,2022,NULL
+Astra,2022,NULL
+Astra,2023,NULL
+"Astrate Medical",2024,NULL
+"Atlanta Tech Village",2020,NULL
+Attentive,2023,NULL
+"Aura Financial",2021,NULL
+Aurora,2024,NULL
+Automatic,2020,NULL
+Automox,2022,NULL
+"Ava Labs",2023,NULL
+Avast,2022,NULL
+Away,2024,NULL
+Awok,2020,NULL
+Ayoconnect,2023,NULL
+Bakkt,2022,NULL
+"Bally's Interactive",2023,NULL
+Baraja,2023,NULL
+Beamery,2023,NULL
+"Belora Paris",2023,NULL
+"Benitago Group",2022,NULL
+"Berkeley Lights",2022,NULL
+"Better Therapeutics",2023,NULL
+Betterfly,2023,NULL
+"Big Cabal Media",2023,NULL
+BigBear.ai,2022,NULL
+BigCommerce,2023,NULL
+Bilibili,2022,NULL
+Bill.com,2023,NULL
+Bitfront,2022,NULL
+BitGo,2020,NULL
+Bitrise,2022,NULL
+Bizpay,2022,NULL
+"Blue Apron",2022,NULL
+"Blue Apron",2023,NULL
+Blueboard,2024,NULL
+Bluelearn,2024,NULL
+Bluepad,2023,NULL
+"BM Technologies",2023,NULL
+Bolt.Earth,2023,NULL
+"Boosted Commerce",2022,NULL
+"Bowery Farming",2024,NULL
+Braid,2023,NULL
+Brainly,2023,NULL
+Brave,2023,NULL
+Brightline,2022,NULL
+Brightline,2023,NULL
+Brilliant,2024,NULL
+Brodmann17,2022,NULL
+Buildertrend,2023,NULL
+"Built Technologies copy",2023,NULL
+"Bundle Africa",2023,NULL
+Bunnii,2023,NULL
+"Business Insider",2024,NULL
+"Bustle Digital Group",2023,NULL
+"Butterfly Network",2023,NULL
+"Butterfly Network",2022,NULL
+"Butterfly Network copy",2023,NULL
+Buzzer,2022,NULL
+Buzzer,2023,NULL
+BuzzFeed,2024,NULL
+Cabin,2020,NULL
+"Cake Bikes",2024,NULL
+Calibrate,2023,NULL
+"Camp K12",2023,NULL
+Cana,2023,NULL
+Capsule,2022,NULL
+CapWay,2024,NULL
+Carsome,2022,NULL
+Carta,2023,NULL
+Casavo,2023,NULL
+"Castlight Health",2020,NULL
+Catch,2023,NULL
+Cedar,2022,NULL
+Cellulant,2023,NULL
+"Change Invest",2022,NULL
+Change.org,2022,NULL
+ChargePoint,2023,NULL
+CircleCI,2022,NULL
+"Circulo Health",2022,NULL
+Citrix,2023,NULL
+Clockwork,2023,NULL
+CloudFactory,2022,NULL
+Clubhouse,2023,NULL
+Clutter,2020,NULL
+CoachHub,2023,NULL
+Code42,2022,NULL
+CodeSee,2024,NULL
+Codexis,2022,NULL
+CoLab,2023,NULL
+Collage.com,2022,NULL
+Comparis,2023,NULL
+ComplYant,2024,NULL
+Conga,2020,NULL
+ConnectedH,2023,NULL
+Convoy,2020,NULL
+Copper,2023,NULL
+"Core Scientific",2022,NULL
+"Corvus Insurance",2023,NULL
+Cova,2024,NULL
+Creditas,2020,NULL
+Crypto.com,2023,NULL
+Curalie,2023,NULL
+CyberProof,2024,NULL
+"Cyteir Therapeutics",2023,NULL
+D2iQ,2023,NULL
+D2L,2022,NULL
+DailyPay,2022,NULL
+Dance,2022,NULL
+Daraz,2023,NULL
+Dash,2023,NULL
+Dastgyr,2024,NULL
+Datera,2020,NULL
+Datree,2023,NULL
+Daylight,2023,NULL
+DayTwo,2024,NULL
+"dbt Labs",2023,NULL
+"Deep Instinct",2022,NULL
+Degreed,2022,NULL
+DeHaat,2023,NULL
+"Desktop Metal",2022,NULL
+"Desktop Metal",2024,NULL
+Devo,2022,NULL
+"Dextrous Robotics",2024,NULL
+"Digital Surge",2022,NULL
+Dispatch,2020,NULL
+"Divvy Homes",2020,NULL
+Docker,2024,NULL
+"Domino Data Lab",2022,NULL
+Domio,2020,NULL
+Domo,2023,NULL
+dot.LA,2023,NULL
+DoubleCloud,2024,NULL
+Doubtnut,2022,NULL
+DriveWealth,2023,NULL
+"Duck Creek Technologies",2023,NULL
+"Dude Solutions",2020,NULL
+"DUX Education",2023,NULL
+DwellWell,2023,NULL
+dYdX,2024,NULL
+"Earth Rides",2023,NULL
+"Editas Medicine",2023,NULL
+Edmodo,2022,NULL
+"Eight Sleep",2020,NULL
+Elastic,2022,NULL
+Element,2022,NULL
+Elliptic,2020,NULL
+"Engine eCommerce",2020,NULL
+EQRx,2023,NULL
+Esper,2022,NULL
+Esper,2023,NULL
+"Euler Motors",2023,NULL
+Eventus,2023,NULL
+Everlaw,2023,NULL
+Everledger,2023,NULL
+Everybuddy,2024,NULL
+Exabeam,2023,NULL
+Exosonic,2024,NULL
+Eyowo,2023,NULL
+Fable,2024,NULL
+Fandom,2020,NULL
+Fast,2022,NULL
+Fastly,2024,NULL
+"Faze Medicines",2022,NULL
+"FemTech Health",2023,NULL
+Filmic,2023,NULL
+Fipola,2023,NULL
+Firework,2022,NULL
+Fisker,2024,NULL
+Fission,2024,NULL
+"Fit Analytics",2023,NULL
+Fivetran,2022,NULL
+Flexport,2024,NULL
+Flowhub,2022,NULL
+Flowr,2020,NULL
+"Flux Systems",2022,NULL
+"Foresight Insurance",2022,NULL
+Formstack,2023,NULL
+Forward,2022,NULL
+FourKites,2023,NULL
+"Frequency Therapeutics",2023,NULL
+FrontRow,2023,NULL
+Frubana,2022,NULL
+FullStory,2022,NULL
+Fuzzy,2023,NULL
+Gated,2023,NULL
+Gatherly,2022,NULL
+Gavelytics,2022,NULL
+Gemini,2023,NULL
+Getaround,2023,NULL
+Getaround,2024,NULL
+Getir,2022,NULL
+GitHub,2023,NULL
+Glassbox,2023,NULL
+GloriFi,2022,NULL
+GoMechanic,2023,NULL
+GoNuts,2022,NULL
+GoodGood,2022,NULL
+GoodWorker,2023,NULL
+Gopuff,2024,NULL
+Gousto,2022,NULL
+GoWild,2024,NULL
+Grabango,2024,NULL
+Greenikk,2024,NULL
+"Grove Collaborative",2022,NULL
+Guidewire,2022,NULL
+HackerEarth,2023,NULL
+HackerOne,2023,NULL
+"Halcyon Health",2022,NULL
+Haus,2022,NULL
+Here,2024,NULL
+Heygo,2023,NULL
+"Hinge Health",2024,NULL
+Hipcamp,2020,NULL
+HomeLight,2022,NULL
+Homeward,2022,NULL
+Honor,2023,NULL
+"Hooray Foods",2023,NULL
+HubHaus,2020,NULL
+"Huuuge Games",2023,NULL
+Hydrow,2022,NULL
+Hypefast,2023,NULL
+"Hyperloop One",2023,NULL
+Ignite,2022,NULL
+Ignition,2023,NULL
+Immutable,2023,NULL
+Impact.com,2022,NULL
+Improbable,2022,NULL
+"Included Health",2022,NULL
+Increff,2023,NULL
+inDrive,2023,NULL
+Inscribe,2024,NULL
+Insider,2023,NULL
+InsurStaq.ai,2024,NULL
+InVision,2022,NULL
+InVision,2024,NULL
+Iress,2023,NULL
+IRL,2023,NULL
+IronNet,2023,NULL
+iSpecimen,2023,NULL
+Jamf,2024,NULL
+Jane,2023,NULL
+Jellyfish,2023,NULL
+Jellysmack,2022,NULL
+JetClosing,2022,NULL
+Joonko,2023,NULL
+Joonko,2024,NULL
+"Jounce Therapeutics",2023,NULL
+Journera,2024,NULL
+"Juniper Square",2022,NULL
+Kabam,2023,NULL
+Kaiyo,2024,NULL
+Kaltura,2022,NULL
+Kandela,2023,NULL
+Kandji,2022,NULL
+Kaodim,2022,NULL
+Karakuki,2023,NULL
+Karbon,2022,NULL
+Karhoo,2024,NULL
+Karshare,2023,NULL
+Kaspien,2023,NULL
+Kazoo,2020,NULL
+"Kenko Health",2024,NULL
+Kevin,2024,NULL
+Khoros,2023,NULL
+Kinaxis,2024,NULL
+Kite,2022,NULL
+"Kleos Space",2023,NULL
+KnownOrigin,2024,NULL
+Koho,2023,NULL
+Koo,2024,NULL
+Kune,2022,NULL
+Kyte,2024,NULL
+L1ght,2023,NULL
+Ladenzeile,2024,NULL
+Lantern,2023,NULL
+Latch,2023,NULL
+Laybuy,2023,NULL
+Lazerpay,2023,NULL
+"Le Tote",2020,NULL
+Ledger,2023,NULL
+"Ledger Investing",2024,NULL
+LegalZoom,2024,NULL
+"Lido Learning",2022,NULL
+Life360,2023,NULL
+Limeade,2023,NULL
+LiveRamp,2022,NULL
+LiveVox,2023,NULL
+Locomation,2023,NULL
+Longi,2024,NULL
+Loopio,2024,NULL
+Loopio,2023,NULL
+"Lora DiCarlo",2022,NULL
+"Lordstown Motors",2023,NULL
+"Lucid Diagnostics",2023,NULL
+"Lumina Networks",2020,NULL
+Lunchtime,2023,NULL
+Lunya,2023,NULL
+"Made Renovation",2023,NULL
+Made.com,2022,NULL
+Madefire,2021,NULL
+Magnite,2023,NULL
+Mainvest,2024,NULL
+Marqeta,2023,NULL
+Masse,2020,NULL
+"Match Group",2024,NULL
+"Match Group",2023,NULL
+"Matter Labs",2024,NULL
+"May Mobility",2024,NULL
+Meati,2024,NULL
+"Meati Foods",2023,NULL
+MediaMath,2023,NULL
+Medium,2022,NULL
+Medly,2022,NULL
+Medly,2023,NULL
+Memmo,2022,NULL
+Merama,2023,NULL
+"Mercari U.S.",2024,NULL
+MeridianLink,2023,NULL
+MeridianLink,2024,NULL
+MessageBird,2022,NULL
+Messari,2023,NULL
+Migo,2020,NULL
+"Mister Spex",2024,NULL
+"Mobius Motors",2024,NULL
+"Mode Global",2023,NULL
+"Modern Treasury",2022,NULL
+"Mojo Vision",2023,NULL
+Momentive,2023,NULL
+"Morning Brew",2022,NULL
+"Motif Foodworks",2024,NULL
+"Motif Investing",2020,NULL
+Motive,2023,NULL
+"Mozilla Foundation",2024,NULL
+"Mr. Yum",2022,NULL
+Mudafy,2023,NULL
+Multiverse,2023,NULL
+"Muni Tienda",2022,NULL
+Mutiny,2023,NULL
+Muvin,2024,NULL
+"Mythical Games",2022,NULL
+NanoString,2022,NULL
+"National Instruments",2023,NULL
+Nativo,2020,NULL
+NCSoft,2023,NULL
+NCX,2022,NULL
+Nearmap,2020,NULL
+Nearmap,2023,NULL
+"Neoleukin Therapeutics",2023,NULL
+NerdWallet,2024,NULL
+Nerdy,2022,NULL
+Nextdoor,2023,NULL
+Nextiva,2022,NULL
+NextRoll,2022,NULL
+NIO,2023,NULL
+"Nirvana Money",2022,NULL
+Nomad,2022,NULL
+Nori,2024,NULL
+"Notable Labs",2024,NULL
+"Nova Benefits",2022,NULL
+Nowadays,2023,NULL
+Nowports,2023,NULL
+Nyriad,2022,NULL
+"Octopus Network",2022,NULL
+Oddle,2023,NULL
+Offerpad,2022,NULL
+OfferUp,2022,NULL
+Olive,2023,NULL
+Olo,2024,NULL
+OneStudyTeam,2022,NULL
+OPay,2020,NULL
+OpenClassrooms,2023,NULL
+OpenSea,2022,NULL
+OpenSea,2023,NULL
+OpenText,2023,NULL
+Opora,2023,NULL
+OSlash,2023,NULL
+Ouster,2020,NULL
+Ouster,2022,NULL
+"Ozy Media",2021,NULL
+Paddle,2023,NULL
+PagerDuty,2023,NULL
+PagSeguro,2023,NULL
+Panther,2023,NULL
+Papa,2022,NULL
+Pastel,2022,NULL
+Pax8,2024,NULL
+Pebble,2023,NULL
+Pebblepost,2020,NULL
+Peerfit,2020,NULL
+"Perceptive Automata",2022,NULL
+Personalis,2023,NULL
+Pesto,2022,NULL
+Petal,2022,NULL
+Petal,2023,NULL
+PhableCare,2023,NULL
+PicoBrew,2020,NULL
+Pivo,2023,NULL
+Plerk,2022,NULL
+"Plus One Robotics",2023,NULL
+Podium,2022,NULL
+Poparazzi,2023,NULL
+Popin,2020,NULL
+Poshmark,2023,NULL
+Presto,2023,NULL
+"Prime Trust",2023,NULL
+Prisma,2023,NULL
+Procore,2024,NULL
+"Product Hunt",2023,NULL
+Productboard,2023,NULL
+Propzy,2022,NULL
+Prosus,2023,NULL
+"Protego Trust Bank",2023,NULL
+Protonn,2022,NULL
+Providoor,2023,NULL
+Puppet,2022,NULL
+Purse,2020,NULL
+Qin1,2022,NULL
+Quadream,2023,NULL
+Quanto,2023,NULL
+"Quantum SI",2023,NULL
+Quibi,2020,NULL
+Quizac,2024,NULL
+Quizy,2023,NULL
+Qwick,2020,NULL
+Qyuki,2023,NULL
+R3,2023,NULL
+"Ranger Insurance",2024,NULL
+"RDX Works",2023,NULL
+Reach,2022,NULL
+"Rebel Foods",2023,NULL
+Recast,2023,NULL
+Received,2024,NULL
+RedDoorz,2020,NULL
+"Regrow Ag",2024,NULL
+RenoRun,2023,NULL
+"Rent the Runway",2022,NULL
+ReshaMandi,2024,NULL
+Retool,2023,NULL
+Rezi,2024,NULL
+"Rigetti Computing",2023,NULL
+Ro,2022,NULL
+"Rock Content",2023,NULL
+Roofstock,2022,NULL
+Roofstock,2023,NULL
+Rubica,2020,NULL
+"Rubicon Technologies",2022,NULL
+"Running Tide",2024,NULL
+SADA,2022,NULL
+SadaPay,2024,NULL
+Sampler,2024,NULL
+Sana,2022,NULL
+Sayurbox,2022,NULL
+"Scale AI",2023,NULL
+"SCiFi Foods",2024,NULL
+Scoro,2023,NULL
+SeekOut,2024,NULL
+SendCloud,2022,NULL
+Sendoso,2022,NULL
+Sendy,2023,NULL
+SentinelOne,2023,NULL
+Service,2020,NULL
+Sezzle,2022,NULL
+Shift,2023,NULL
+ShipBob,2022,NULL
+Shipt,2023,NULL
+ShopX,2022,NULL
+Side,2022,NULL
+Silo,2024,NULL
+Silofit,2023,NULL
+Simple,2021,NULL
+"Singular Genomics",2023,NULL
+"Singular Genomics",2024,NULL
+Slync,2023,NULL
+"Small Robot Company",2024,NULL
+SmartAsset,2023,NULL
+SmileDirectClub,2023,NULL
+Snapdocs,2022,NULL
+SoFi,2024,NULL
+Sojern,2023,NULL
+Solarisbank,2022,NULL
+SonderMind,2022,NULL
+Sorabel,2020,NULL
+SoundCloud,2023,NULL
+SoundCloud,2022,NULL
+Soundwide,2023,NULL
+"Spora Health",2022,NULL
+Sportradar,2023,NULL
+Springlane,2022,NULL
+Sproutt,2024,NULL
+"SQZ Biotech",2022,NULL
+Stackpath,2024,NULL
+Starburst,2023,NULL
+Starry,2022,NULL
+Starship,2022,NULL
+"Stellar Pizza",2023,NULL
+Stoa,2024,NULL
+"Stockwell AI",2020,NULL
+StoryBlocks,2022,NULL
+Strake,2023,NULL
+Strava,2022,NULL
+StreamElements,2022,NULL
+StyleSeat,2022,NULL
+StyleSeat,2023,NULL
+Subspace,2022,NULL
+Sundae,2022,NULL
+Sunfolding,2023,NULL
+SuperLearn,2022,NULL
+SuperRare,2023,NULL
+SweetEscape,2020,NULL
+Symend,2022,NULL
+Synlogic,2022,NULL
+Tackle,2023,NULL
+"Talis Biomedical",2022,NULL
+Talkwalker,2022,NULL
+Tally,2024,NULL
+TCR2,2023,NULL
+Tenable,2024,NULL
+Teradata,2024,NULL
+Tesla,2022,NULL
+Tessera,2023,NULL
+"The Modist",2020,NULL
+"The Wing",2022,NULL
+Thepeer,2024,NULL
+ThredUp,2022,NULL
+Thursday,2024,NULL
+TicketSwap,2020,NULL
+Tiki,2023,NULL
+Toplyne,2024,NULL
+Toucan,2023,NULL
+Tray.io,2022,NULL
+"Trend Micro",2024,NULL
+Tricida,2022,NULL
+"Truck It In",2022,NULL
+Turntide,2022,NULL
+Twig,2024,NULL
+TwinStrand,2022,NULL
+Udemy,2023,NULL
+Uleet,2023,NULL
+"Una Brands",2022,NULL
+Unacademy,2023,NULL
+"Unchained Capital",2022,NULL
+Unit,2024,NULL
+Upwork,2024,NULL
+"Utopia Music",2023,NULL
+Vallai,2023,NULL
+Vanta,2022,NULL
+"Vedanta Biosciences",2022,NULL
+Veev,2023,NULL
+Velocity,2023,NULL
+Vendasta,2022,NULL
+Verse,2023,NULL
+"Vibrent Health",2023,NULL
+"Vicarious Surgical",2023,NULL
+VideoAmp,2022,NULL
+VideoAmp,2024,NULL
+Vimeo,2022,NULL
+Vimeo,2023,NULL
+"Vista Group",2023,NULL
+"Volt Bank",2022,NULL
+Volta,2022,NULL
+"Volta Trucks",2023,NULL
+Voly,2022,NULL
+Vowel,2023,NULL
+VRChat,2024,NULL
+Wallbox,2023,NULL
+Wavely,2022,NULL
+Webflow,2024,NULL
+WeFit,2020,NULL
+WeTrade,2023,NULL
+Whispir,2022,NULL
+WHOOP,2023,NULL
+WhyHotel,2020,NULL
+Wisense,2024,NULL
+Workfellow,2024,NULL
+Wyre,2023,NULL
+Xendit,2022,NULL
+Yabonza,2022,NULL
+Yext,2023,NULL
+Yext,2024,NULL
+YourGrocer,2022,NULL
+Yummly,2024,NULL
+"Zapata Computing",2024,NULL
+Zapier,2023,NULL
+Zapp,2022,NULL
+Zapp,2024,NULL
+Zappos,2022,NULL
+ZenLedger,2022,NULL
+Zepto,2022,NULL
+"Zeus Living",2023,NULL
+Zhihu,2022,NULL
+Ziroom,2022,NULL
+Zoe,2024,NULL
+Zola,2020,NULL
+Zume,2023,NULL
+Zuora,2024,NULL
+Zuora,2022,NULL
+Zylo,2023,NULL
+Zymergen,2020,NULL

@@ -1,0 +1,2351 @@
+company,SUM(total_laid_off)
+Amazon,27840
+Meta,21000
+Intel,16057
+Microsoft,14708
+Tesla,14500
+Cisco,14300
+Google,13472
+Dell,12650
+Salesforce,11140
+SAP,11000
+Philips,10000
+Ericsson,8500
+Flink,8100
+Uber,7785
+Micron,7200
+Getir,5900
+Bytedance,5700
+Byju's,5500
+Paytm,5000
+IBM,4900
+PayPal,4668
+Booking.com,4601
+Peloton,4495
+Wayfair,4270
+Carvana,4000
+Toshiba,4000
+Twitter,3940
+Better.com,3900
+Groupon,3800
+Seagate,3480
+Shopify,3450
+Swiggy,3280
+Indeed,3200
+Unity,3199
+Katerra,3074
+Cerner,3000
+Xerox,3000
+Ola,2980
+Lyft,2844
+VMware,2837
+Amdocs,2700
+"Stitch Fix",2688
+LinkedIn,2538
+Intuit,2515
+UKG,2465
+Vacasa,2420
+Gopuff,2400
+Spotify,2355
+Zillow,2323
+"OLX Group",2300
+Twilio,2300
+Crypto.com,2260
+Instacart,2127
+Coinbase,2110
+"WhiteHat Jr",2100
+Opendoor,2010
+Farfetch,2000
+"Just Eat",2000
+Snap,1970
+Airbnb,1930
+"GoTo Group",1900
+Redfin,1851
+OYO,1850
+Toast,1850
+Vroom,1802
+DocuSign,1791
+Unacademy,1750
+"Lucid Motors",1700
+"Electronic Arts",1650
+Expedia,1600
+Northvolt,1600
+Yahoo,1600
+Qualcomm,1525
+eBay,1520
+Agoda,1500
+Kraken,1500
+PaisaBazaar,1500
+PuduTech,1500
+Zoom,1450
+Copia,1410
+Shutterfly,1406
+Infineon,1400
+Grab,1360
+Dropbox,1342
+TikTok,1310
+Juul,1300
+"Lam Research",1300
+SolarEdge,1300
+Stone,1300
+Loft,1289
+DoorDash,1250
+Invitae,1235
+Robinhood,1203
+OpenText,1200
+Rivian,1170
+Playtika,1150
+WeWork,1150
+Vedantu,1109
+"Capital One",1100
+Flipkart,1100
+MindBody,1100
+OneTrust,1100
+Sabre,1100
+Viasat,1100
+Compass,1096
+Thoughtworks,1079
+"Cue Health",1075
+Doma,1075
+"Magic Leap",1075
+Yelp,1063
+Cruise,1050
+Qualtrics,1050
+Stripe,1050
+TripAdvisor,1025
+Blend,1010
+AMD,1000
+Binance,1000
+Block,1000
+"Butler Hospitality",1000
+Citrix,1000
+FNZ,1000
+"Hyland Software",1000
+Ocado,1000
+Redbox,1000
+"Reliance JioMart",1000
+Revel,1000
+Informatica,995
+Noom,995
+GoDaddy,981
+NetApp,960
+F5,943
+ShareChat,931
+Curefit,920
+Meesho,901
+Bitwise,900
+"Black Shark",900
+Jumia,900
+"Sony Interactive",900
+Splunk,895
+UiPath,871
+"Epic Games",870
+Freshworks,864
+"Lending Club",857
+Sonder,856
+"Enphase Energy",850
+Chegg,840
+Gorillas,840
+Zulily,839
+Arrival,800
+CoverMyMeds,800
+GoHealth,800
+Klarna,800
+Loggi,800
+"Skip the Dishes",800
+Xero,800
+"Flywheel Sports",784
+Illumina,762
+"Red Hat",760
+Roku,760
+"Delivery Hero",756
+Cazoo,750
+Reef,750
+Sema4,750
+Zendesk,750
+Okta,724
+Deliveroo,717
+Apple,714
+Cars24,700
+MakeMyTrip,700
+"Zebra Technologies",700
+Cerebral,685
+"Argo AI",682
+Eventbrite,680
+iRobot,680
+ZipRecruiter,670
+Deliv,669
+"Misfits Market",649
+Nuro,647
+Flexport,640
+SiriusXM,635
+Udaan,630
+"Clear Capital",628
+"Carbon Health",620
+Convoy,620
+Zomato,620
+HelloFresh,611
+"1K Kirana",600
+Bybit,600
+Dunzo,600
+MFine,600
+"Skill Lync",600
+Wish,595
+"Lightspeed Commerce",580
+Take-Two,579
+"Riot Games",576
+Huobi,575
+WayCool,570
+Affirm,560
+Cue,558
+Infarm,550
+Livspace,550
+Motional,550
+"New Relic",545
+TomTom,545
+Bird,544
+Akamai,540
+Careem,536
+Eaze,525
+Workday,525
+"Western Digital",522
+Hootsuite,520
+SecureWorks,512
+Netflix,505
+Upstart,505
+Alerzo,500
+Atlassian,500
+Avo,500
+Blackbaud,500
+Cimpress,500
+Flyhomes,500
+HubSpot,500
+Jump,500
+Lendingkart,500
+"Ola Electric",500
+PagBank,500
+TuSimple,500
+Twitch,500
+Veeam,500
+WeDoctor,500
+Twiga,494
+Airtable,491
+Bounce,490
+Pegasystems,485
+AppLovin,481
+Brex,480
+Guild,472
+Rapid7,470
+Wix,470
+Gympass,467
+"Root Insurance",467
+"The RealReal",465
+Neon,460
+OneWeb,451
+Cornershop,450
+Olive,450
+Sophos,450
+Viaplay,450
+Workrise,450
+Zepz,450
+Checkr,446
+Glassdoor,440
+"Juniper Networks",440
+Glovo,437
+Gojek,430
+"Pristyn Care",420
+Niantic,415
+Thumbtack,410
+Sonos,404
+Ebanx,402
+"AliExpress Russia",400
+Cvent,400
+Enjoy,400
+ezCater,400
+"Ginkgo Bioworks",400
+GoStudent,400
+Grubhub,400
+Kry,400
+Milkbasket,400
+Milkrun,400
+"New Work SE",400
+Nikola,400
+Oriente,400
+"Pico Interactive",400
+Pluralsight,400
+SWVL,400
+Miro,394
+Renmoney,391
+"Just Eat Takeaway",390
+Voi,385
+Hopin,380
+Wex,375
+CommerceHub,371
+Nubank,366
+BuzzFeed,360
+Moladin,360
+Oda,360
+"Velodyne Lidar",360
+Snyk,356
+8x8,355
+Enovix,355
+iFood,355
+Paper,355
+ConsenSys,354
+Bumble,350
+Grail,350
+"Green Labs",350
+LendingTree,350
+Meero,350
+MPL,350
+Sea,350
+Selina,350
+SkipTheDishes,350
+Toppr,350
+KeepTruckin,349
+"Moxion Power",349
+23andMe,346
+FarEye,340
+Noon,340
+Oportun,340
+"Sage Therapeutics",340
+Evolve,339
+GoPro,339
+Innovaccer,335
+Latch,335
+Faire,334
+IAC,330
+Luno,330
+Freshly,329
+Truepill,325
+TrueCar,321
+Alteryx,320
+Marvell,320
+"Fate Therapeutics",315
+"Pear Therapeutics",313
+McMakler,310
+Mozilla,310
+Edgio,309
+Project44,309
+Bolt,307
+Zymergen,307
+Ribbon,306
+"Beyond Meat",305
+Adjust,304
+Coherent,304
+Adda247,300
+Anaplan,300
+Bol.com,300
+"Color Health",300
+Cybereason,300
+Extramarks,300
+HealthifyMe,300
+iFit,300
+Klook,300
+Lacework,300
+Logitech,300
+Merative,300
+Proterra,300
+Samsara,300
+"SAP Labs",300
+SEND,300
+Skyscanner,300
+Sojern,300
+"Sono Motors",300
+Spinny,300
+StockX,300
+Tekion,300
+"Teladoc Health",300
+Tencent,300
+Trax,300
+Trell,300
+TripActions,300
+Wave,300
+"Wildlife Studios",300
+Zip,300
+Planet,297
+WeTransfer,295
+Navan,290
+"Sage Therapeutics copy",290
+Inspirato,289
+"Jam City",285
+Monzo,285
+CityMall,281
+"Haven Technologies",280
+Proofpoint,280
+RenoRun,280
+Simpl,280
+Udemy,280
+FrontRow,275
+"Pure Storage",275
+Rackspace,275
+Branch,274
+Jellysmack,273
+Bitpanda,270
+BookMyShow,270
+DataRobot,270
+Nutanix,270
+"Twist Bioscience",270
+Pollen,269
+Drizly,268
+Sprinklr,266
+Tonal,262
+AvantStay,261
+"Automation Anywhere",260
+Blockchain.com,260
+Facily,260
+Matterport,260
+Mural,260
+Plaid,260
+RealPage,260
+Salsify,260
+Storytel,260
+"Tier Mobility",260
+FreshBooks,258
+Everlane,257
+Ritual,257
+Aptiv,250
+Autodesk,250
+B8ta,250
+"Big Fish Games",250
+BlockFi,250
+ChargePoint,250
+HOOQ,250
+Hopper,250
+Houzz,250
+Magicbricks,250
+"OLX India",250
+SAS,250
+Stoqo,250
+Swappie,250
+TravelTriangle,250
+Verily,250
+ZestMoney,250
+Glossier,249
+MaxMilhas,249
+QuintoAndar,248
+Cameo,247
+SoundHound,245
+ThredUp,243
+Chargebee,242
+Bullhorn,240
+Highspot,240
+"Kayak / OpenTable",240
+NS8,240
+Pagaya,240
+Runtastic,240
+Sisense,240
+Domestika,239
+TaskUs,238
+Motive,237
+Clearco,235
+Frontdesk,235
+"Recur Forever",235
+Headspace,231
+DealShare,230
+"Embark Trucks",230
+Flexe,230
+Grammarly,230
+ManoMano,230
+Rupeek,230
+"Science 37",230
+"Uber Freight",230
+Veriff,230
+Zwift,230
+Hotmart,227
+Clutch,226
+Etsy,225
+Malwarebytes,225
+Sarcos,225
+LivePerson,223
+Electric,222
+Confluent,221
+"Redesign Health",221
+ServiceTitan,221
+"Stay Alfred",221
+Bizzabo,220
+Bungie,220
+Greenhouse,220
+Zoox,220
+Kitopi,217
+"Zeus Living",217
+Article,216
+Kiwi.com,216
+"Olive AI",215
+Personio,215
+StepStone,215
+Intercom,212
+OneFootball,212
+OrCam,212
+AppFolio,211
+AdRoll,210
+Forward,210
+Hubilo,210
+"Meow Wolf",209
+Waymo,209
+Discord,207
+Britishvolt,206
+"Rad Power Bikes",203
+Cogito,201
+ABBYY,200
+BlackBuck,200
+Booksy,200
+CarDekho,200
+"CareerBuilder + Monster",200
+Chewy,200
+ChowNow,200
+Cuemath,200
+"Daniel Wellington",200
+DigitalOcean,200
+Easee,200
+"Emma Sleep",200
+Eroad,200
+EverBridge,200
+Fareportal,200
+Flymya,200
+Hirect,200
+Hulu,200
+JD.ID,200
+"Kape Technologies",200
+MediBuddy,200
+MX,200
+MyGate,200
+"Navi Technologies",200
+Ninjacart,200
+Oracle,200
+PayFit,200
+Payoneer,200
+Planetly,200
+"Pocket FM",200
+Shop101,200
+Shopee,200
+Simplilearn,200
+Smava,200
+"Software AG",200
+StubHub,200
+Synamedia,200
+VTEX,200
+Wayflyer,200
+Xendit,200
+Yellow.ai,200
+Zenius,200
+Zume,200
+MasterClass,199
+ShareFile,199
+Glints,198
+Outreach,197
+ShopBack,195
+Chainalysis,194
+Rover,194
+2TM,190
+Bizongo,190
+BlackLine,190
+Clear,190
+Dock,190
+Five9,190
+"Hippo Insurance",190
+"Integral Ad Science",190
+Leafly,187
+"Chipper Cash",185
+"Dapper Labs",185
+Rapid,185
+Asana,180
+Avaya,180
+BenevolentAI,180
+BigCommerce,180
+Bitso,180
+Checkout.com,180
+Furlenco,180
+Kape,180
+Konfio,180
+Momentive,180
+Orchard,180
+Postmates,180
+Procore,180
+Similarweb,180
+Xiaohongshu,180
+Zscaler,177
+Alice,176
+Astronomer,176
+Thinkific,176
+Inmobi,175
+Restaurant365,175
+Trybe,175
+Weedmaps,175
+Pipedrive,174
+Socure,173
+Telenav,172
+Varo,172
+Aspiration,170
+Crejo.Fun,170
+Favo,170
+Gem,170
+"Kitty Hawk",170
+Mojocare,170
+Notarize,170
+OwnBackup,170
+PolicyGenius,170
+View,170
+"Vox Media",169
+Gemini,168
+"Our Next Energy",168
+AppGate,164
+Fundbox,164
+Swyftx,164
+Carta,161
+AudioCodes,160
+Buser,160
+"Glamyo Health",160
+Happay,160
+Metromile,160
+Polygon,160
+Rubius,160
+SIRCLO,160
+Unico,160
+Wefox,160
+Drift,159
+Homie,159
+Wealthsimple,159
+"Happy Money",158
+Calibrate,156
+Chime,156
+"Cityblock Health",155
+Salesloft,155
+WalkMe,155
+"Bridge Connector",154
+ClassPass,154
+"NuScale Power",154
+Stash,152
+Movidesk,151
+Patreon,151
+Spendesk,151
+6sense,150
+Atlas,150
+Celsius,150
+ClickUp,150
+Convene,150
+Coursera,150
+Curology,150
+Dataminr,150
+Fabric,150
+Fraazo,150
+GoCardless,150
+Instructure,150
+Kavak,150
+Lido,150
+Lightricks,150
+Lummo,150
+mPharma,150
+"Next Insurance",150
+OutSystems,150
+PayU,150
+Pinterest,150
+Pleo,150
+"Project Ronin",150
+Relativity,150
+Scaler,150
+"Share Now",150
+"Simple Feast",150
+Sinch,150
+"The Good Glamm Group",150
+"Vah Vah!",150
+"VerSe Innovation",150
+Vesttoo,150
+Weee!,150
+Healthcare.com,149
+Knotel,147
+Minted,147
+Chrono24,145
+IronNet,145
+"On Deck",145
+Pendo,145
+PrepLadder,145
+Zilingo,144
+Care/of,143
+"Trove Recommerce",143
+Exotel,142
+WanderJaunt,141
+Bonterra,140
+"Callisto Media",140
+ContaAzul,140
+Criteo,140
+DraftKings,140
+Foodpanda,140
+ForeScout,140
+FreshDirect,140
+GoodRx,140
+"Impossible Foods copy",140
+Klaviyo,140
+LEAD,140
+Luminar,140
+Reali,140
+SkyKick,140
+Verbit,140
+Yojak,140
+"Aqua Security",139
+Pitch,139
+Packable,138
+SSense,138
+Benevity,137
+Bluprint,137
+Upwork,137
+Omie,136
+Andela,135
+"Foundation Medicine",135
+"Divvy Homes",134
+Lattice,134
+"Perfect Day",134
+Ula,134
+"Tome Biosciences",131
+TouchBistro,131
+Amount,130
+BeepKart,130
+Blueground,130
+CarGurus,130
+GitLab,130
+"Guardant Health",130
+ID.me,130
+Liftoff,130
+Quanterix,130
+SiFive,130
+SirionLabs,130
+Takl,130
+Validity,130
+Wonder,130
+Workhuman,130
+Evernote,129
+Outbrain,128
+Mindstrong,127
+Bark,126
+"Culture Amp",126
+Gusto,126
+PeerStreet,126
+EasyPost,125
+"NCC Group",125
+"Spartan Poker",125
+Westwing,125
+Tipalti,123
+TripleLift,123
+Cyren,121
+Biofourmis,120
+BioMarin,120
+Breather,120
+"Captain Fresh",120
+Cure.fit,120
+"Deliveroo Australia",120
+Khoros,120
+"Lululemon Studio",120
+"Physics Wallah",120
+RigUp,120
+ScaleFocus,120
+SmartNews,120
+Soluto,120
+Taxfix,120
+"Ten Square Games",120
+"Till Payments",120
+Trustly,120
+UpGrad,120
+WillowTree,120
+ZoomInfo,120
+"Blue Nile",119
+"Nomad Health",119
+Koo,118
+C2FO,116
+"Tempo Automation",116
+Knock,115
+"Sierra Space",115
+Skit.ai,115
+Teachmint,115
+Homepoint,113
+Assurance,112
+Genesis,112
+SoFi,112
+"Analog Devices",111
+"Aurora Solar",111
+Eurora,111
+Pier,111
+TrueLayer,111
+"Virgin Hyperloop",111
+Carousell,110
+"Gro Intelligence",110
+Healthy.io,110
+Landing,110
+Linktree,110
+Namely,110
+NYDIG,110
+Permutive,110
+"Sidecar Health",110
+Varonis,110
+Curative,109
+ForgeRock,109
+"Ethos Life",108
+Turo,108
+"Beam Benefits",105
+Foursquare,105
+Synthego,105
+Greenlight,104
+Satellogic,104
+Priceline,103
+Showpad,102
+"Komodo Health",101
+SummerBio,101
+"10X Genomics",100
+"Adaptive Biotechnologies",100
+Adobe,100
+Akulaku,100
+Atmosphere,100
+Audible,100
+Babylon,100
+"Berlin Brands Group",100
+BetterUp,100
+Binance.US,100
+"Branch Metrics",100
+Branch.io,100
+"Bright Money",100
+Bryter,100
+CareRev,100
+"Cashfree Payments",100
+Catch.com.au,100
+Checkmarx,100
+Circ,100
+CircleCI,100
+Cognyte,100
+Cult.fit,100
+Doximity,100
+eGym,100
+"EMX Digital",100
+Envato,100
+eToro,100
+Everquote,100
+FanClash,100
+Fetch,100
+"Fifth Season",100
+Finder,100
+"Flatiron School",100
+Freenome,100
+Getaround,100
+"Ghost Autonomy",100
+"Heureka Group",100
+HP,100
+Hyperscience,100
+InSightec,100
+Jodo,100
+Jumio,100
+Jumpcloud,100
+"Kenko Health",100
+"Lazada Group",100
+LegalZoom,100
+Lemon,100
+Lendi,100
+"Liv Up",100
+Lyric,100
+Melio,100
+"Mobile Premier League",100
+Mobileye,100
+Moss,100
+nCino,100
+NSO,100
+Orbotech,100
+Pacaso,100
+"Parity Technologies",100
+PatientPop,100
+"Phantom Auto",100
+Productboard,100
+Progrexion,100
+Remote,100
+"Rock Content",100
+Ruggable,100
+Saks.com,100
+Snappy,100
+Sonatype,100
+Starry,100
+StreamElements,100
+SumUp,100
+Synopsys,100
+Taboola,100
+"Times Internet",100
+Traveloka,100
+Tul,100
+Udayy,100
+Veev,100
+Vendr,100
+Venminder,100
+"Workit Health",100
+YouTube,100
+Zak,100
+Zipcar,100
+Amplitude,99
+"Flock Freight",99
+"The Predictive Index",99
+Willow,99
+7shifts,98
+Solidigm,98
+"Stack Overflow",98
+Colossus,97
+Lemonade,97
+"Arkane Studios",96
+"Pavilion Data",96
+54gene,95
+"Culture Trip",95
+Thinx,95
+WHOOP,95
+"Babylon Health",94
+GoFundMe,94
+Karat,94
+N26,94
+"Newfront Insurance",94
+"PACT Pharma",94
+PetLove,94
+"Back Market",93
+"Top Hat",93
+BitTorrent,92
+Scoop,92
+Zoomo,92
+Skillz,91
+Wheel,91
+ApplyBoard,90
+Augury,90
+Calm,90
+Domo,90
+"Eightfold AI",90
+Figure,90
+GetYourGuide,90
+GumGum,90
+Industrious,90
+Kueski,90
+MessageBird,90
+Picsart,90
+"Rebellion Defense",90
+Reddit,90
+ScaleFactor,90
+"Scribe Media",90
+Seegrid,90
+Staffbase,90
+Sunday,90
+"The Zebra",90
+Workato,90
+"Protocol Labs",89
+Unison,89
+BloomTech,88
+Brighte,88
+DispatchHealth,88
+"Buy.com / Rakuten",87
+Foodsby,87
+Ibotta,87
+Outside,87
+PathAI,87
+Quandoo,87
+Zenefits,87
+Lever,86
+Mejuri,86
+Synapse,86
+Talent.com,86
+Crunchyroll,85
+"Funding Circle",85
+Poppulo,85
+Primer,85
+Rev.com,85
+"Singularity 6",85
+Smartsheet,85
+Zego,85
+Ejento,84
+"Lambda School",84
+MariaDB,84
+"NextGen Healthcare",84
+Recharge,84
+Sendy,84
+Fluke,83
+Openpay,83
+Away,82
+"Career Karma",82
+Remedy,82
+Ancestry,81
+Care.com,81
+Clearcover,81
+Olo,81
+Aakash,80
+AlayaCare,80
+"App Annie",80
+Aqgromalin,80
+BillGO,80
+Bittrex,80
+Buenbit,80
+CoinDCX,80
+Cookpad,80
+"Eat Just",80
+FabHotels,80
+Gong,80
+Hologram,80
+Indigo,80
+InvestCloud,80
+"Kuku FM",80
+LeafLink,80
+Licious,80
+Lime,80
+Mamaearth,80
+Mux,80
+Nylas,80
+Otonomo,80
+Pagarbook,80
+Qoala,80
+Quartz,80
+Qumulo,80
+RingCentral,80
+"Sandbox VR",80
+Sketch,80
+Stoa,80
+TaxBit,80
+Unbabel,80
+"VinFast US",80
+Dukaan,79
+PropertyGuru,79
+Slickdeals,79
+"Sumo Logic",79
+Trendsales,79
+Ada,78
+"Built In",78
+Casper,78
+Mogo,78
+"Pulse Secure",78
+Rangle,78
+Spin,78
+BounceX,77
+"Lyra Health",77
+Lokalise,76
+Uniphore,76
+99,75
+Airmeet,75
+"Anchorage Digital",75
+"Arrive Logistics",75
+BitMEX,75
+DISCO,75
+"Drip Capital",75
+Gramophone,75
+Highsnobiety,75
+Kaltura,75
+"Lucid Software",75
+Metigy,75
+"O'Reilly Media",75
+Palantir,75
+Sami,75
+Tackle.io,75
+ThirdLove,75
+Thriver,75
+VTrips,75
+Zeitgold,75
+Benchling,74
+Caliva,74
+Gokada,74
+Outschool,74
+FlightStats,73
+Heycar,73
+"Sana Benefits",73
+Juni,72
+"Quanergy Systems",72
+Properly,71
+1stdibs,70
+Absci,70
+Acast,70
+"Arm Holdings",70
+Aura,70
+Banxa,70
+BenchSci,70
+BitTitan,70
+Bolt.Earth,70
+Boozt,70
+Brightcove,70
+Bungalow,70
+Carwow,70
+Dealtale,70
+F-Secure,70
+Goodfood,70
+Hibob,70
+Involves,70
+KoinWorks,70
+Kyruus,70
+"Momentis Surgical",70
+"Oscar Health",70
+PickYourTrail,70
+Quantcast,70
+Redbubble,70
+StudySmarter,70
+Submittable,70
+Virtudent,70
+Yotpo,70
+"Embark Vet",69
+Gigamon,69
+HashiCorp,69
+iCIMS,69
+"The Iconic",69
+Xing,68
+AgentSync,67
+Ajaib,67
+"Osso VR",67
+Tropic,66
+Turnitin,66
+Balto,65
+BeyondMinds,65
+Chope,65
+Clari,65
+Curve,65
+"Funding Societies",65
+InfluxData,65
+Mixpanel,65
+Otovo,65
+Paxos,65
+Playdots,65
+"Repertoire Immune Medicines",65
+TheSkimm,65
+uShip,65
+Veho,65
+"Virta Health",65
+Lev,64
+Mapbox,64
+Sigfox,64
+"Candy Digital",63
+Nevro,63
+"Pie Insurance",63
+SynapseFI,63
+UserTesting,63
+"Warby Parker",63
+"CS Disco",62
+divvyDOSE,62
+"Element AI",62
+Numbrs,62
+Wattpad,62
+"Bossa Nova",61
+Point,61
+VideoAmp,61
+Afterverse,60
+Akseleran,60
+BlueStacks,60
+"C6 Bank",60
+Calendly,60
+CleverTap,60
+"Daily Harvest",60
+Deputy,60
+Dropp,60
+Elementor,60
+Expel,60
+Fiverr,60
+Flywire,60
+Forto,60
+FourKites,60
+Grin,60
+Harappa,60
+Innoviz,60
+Instagram,60
+Lunchbox,60
+MadeiraMadeira,60
+"Maven Clinic",60
+"Me Poupe",60
+Nate,60
+Omuni,60
+ON,60
+Optimizely,60
+"Orca Security",60
+"Parallel Wireless",60
+Parler,60
+Protocol,60
+Qomplx,60
+Quicko,60
+Raken,60
+Revolut,60
+Sanar,60
+Shippo,60
+Sirplus,60
+TechTarget,60
+"Tilting Point",60
+VerticalScope,60
+WazirX,60
+Workmotion,60
+Bonsai,59
+Exodus,59
+Medallia,59
+Medtronic,59
+Rasa,59
+"SHINE Technologies",59
+Stord,59
+Textio,59
+Bandcamp,58
+Canoo,58
+"Chili Piper",58
+Envoy,58
+Gupy,58
+Hash,58
+Incredibuild,58
+CodeClan,57
+"Divergent 3D",57
+Introhive,57
+Loom,57
+Loop,57
+Rhino,57
+Rubrik,57
+Splyt,57
+"The Wing",56
+Vesta,56
+"Wave Sports and Entertainment",56
+"Definitive Healthcare",55
+GoBolt,55
+Hike,55
+Ludia,55
+Perion,55
+"Pomelo Fashion",55
+Tails.com,55
+Tufin,55
+Udacity,55
+"Urban Sports Club",55
+"When I Work",55
+Actifio,54
+"Collective Health",54
+Marketforce,54
+Nexar,54
+"The Mom Project",54
+"DHI Group",53
+HackerRank,53
+MediaMath,53
+Ualá,53
+"Bamboo Health",52
+OutboundEngine,52
+Cardlytics,51
+Mercos,51
+RealSelf,51
+Acorns,50
+"Ada Health",50
+"Ambev Tech",50
+"American Robotics",50
+Anodot,50
+Avidbots,50
+"Axios Media",50
+"Bishop Fox",50
+Breathe,50
+"Cake Group",50
+Dazn,50
+DeepVerge,50
+Dragos,50
+Dutchie,50
+Earnin,50
+Eucalyptus,50
+Fireblocks,50
+Freightos,50
+FullStory,50
+Graphy,50
+"Group Nine Media",50
+Iflix,50
+"Imperfect Foods",50
+Impinj,50
+"Impossible Foods",50
+"iPrice Group",50
+"Iron Ox",50
+Jimdo,50
+JOKR,50
+Kontist,50
+Lastline,50
+LiveTiles,50
+Lyst,50
+Megaport,50
+"Minute Media",50
+Moov,50
+Myntra,50
+"NanoString Technologies",50
+"Pocket Aces",50
+Puppet,50
+Q4,50
+"Remote Year",50
+Replicated,50
+RiseUp,50
+"Rubicon Project",50
+Segment,50
+SkySlope,50
+Symend,50
+TakeOff,50
+Tibber,50
+Tiendanube,50
+Vezeeta,50
+"Wahoo Fitness",50
+Warren,50
+"Wave Financial",50
+Wonderschool,50
+Zoopla,50
+Equitybee,49
+SonderMind,49
+Button,48
+Chingari,48
+"First Mode",48
+Guideline,48
+Netlify,48
+Shogun,48
+"Titan Medical",48
+"Alto Pharmacy",47
+Bench,47
+Ecobee,47
+HuffPo,47
+Open,47
+Polly,47
+Unbounce,47
+AEye,46
+"Akili Labs",46
+"Deep Instict",46
+Payfactors,46
+"The Athletic",46
+Viant,46
+Wonolo,46
+Acko,45
+Airtasker,45
+Examedi,45
+Ezoic,45
+Freetrade,45
+Hubba,45
+Huma,45
+Intapp,45
+Kissflow,45
+Laybuy,45
+Mainstreet,45
+Namogoo,45
+Nuri,45
+Peek,45
+Pilot,45
+TADA,45
+Viber,45
+VSCO,45
+Workstream,45
+Zumper,45
+Ahead,44
+CoinSwitch,44
+"Luxury Presence",44
+Passport,44
+Redox,44
+Tomo,44
+"Bustle Digital Group",43
+Chief,43
+Elinvar,43
+Inscripta,43
+Postscript,43
+"Shelf Engine",43
+"Course Hero",42
+Khatabook,42
+"Mode Analytics",42
+"Unstoppable Domains",42
+Velo3D,42
+Bestow,41
+Food52,41
+Peerspace,41
+Practo,41
+Treehouse,41
+"Absolute Software",40
+Adwerx,40
+Archipelago,40
+Astra,40
+"Basis Technologies",40
+BharatAgri,40
+BigPanda,40
+BitSight,40
+"Blue Origin",40
+"Brave Care",40
+CarTrawler,40
+Clinc,40
+Cloudflare,40
+Cloudinary,40
+Community,40
+Daloopa,40
+Dozee,40
+Drata,40
+"Eden / Managed By Q",40
+Eruditus,40
+Etermax,40
+EVgo,40
+Fly.io,40
+Grover,40
+Hodlnaut,40
+Homeday,40
+Ideoclick,40
+Impact.com,40
+InDebted,40
+Innovid,40
+Intrinsic,40
+KiwiCo,40
+Labster,40
+"Lighter Capital",40
+Lightico,40
+Loco,40
+Moglix,40
+"Morning Brew",40
+"Mr Yum",40
+Navi,40
+"Oh My Green",40
+"Oye Rickshaw",40
+Parsable,40
+PartnerStack,40
+PaySense,40
+PharmEasy,40
+Relevel,40
+Reverb,40
+Riskified,40
+Shuttl,40
+"Sight Diagnostics",40
+Siteimprove,40
+Snowplow,40
+SpotHero,40
+"Stash Financial",40
+StrongDM,40
+"The Grommet",40
+Tidal,40
+"TikTok India",40
+"Treasury Prime",40
+Vial,40
+Wejo,40
+Wistia,40
+Builder,39
+"Flatiron Health",39
+Goop,39
+Jobcase,39
+Kiavi,39
+"Tulip Retail",39
+Articulate,38
+"Immersive Labs",38
+M1,38
+"The Guild",38
+Capitolis,37
+Flockjay,37
+Plex,37
+"Rent the Runway",37
+Springbig,37
+Zeplin,37
+"Ada Support",36
+Hireology,36
+"Humble Games",36
+Labelbox,36
+Plum,36
+Appsmith,35
+Artsy,35
+"Circus Kitchens",35
+Copper,35
+"Dynamic Signal",35
+Gloat,35
+Jetty,35
+Kabam,35
+Linkfire,35
+"Monarch Tractor",35
+Monese,35
+OpenX,35
+Ridecell,35
+Superpedestrian,35
+Sweetgreen,35
+WorkRamp,35
+D2iQ,34
+Grabango,34
+Lola,34
+TealBook,34
+Amperity,33
+Citizen,33
+ICANN,33
+Paystack,33
+Studio,33
+Vee,33
+Advata,32
+AtoB,32
+Boxed,32
+Loftium,32
+Section4,32
+CaptivateIQ,31
+Clue,31
+Enjoei,31
+Flex,31
+Maven,31
+"REE Automotive",31
+Skedulo,31
+Skillshare,31
+Stashaway,31
+Uberflip,31
+Airtime,30
+"Aleph Farms",30
+Athennian,30
+Autograph,30
+Bardee,30
+BeeTech,30
+Betterfly,30
+Bevi,30
+"Blume Global",30
+Booktopia,30
+"Bright Machines",30
+Bullish,30
+Catalant,30
+Coinsquare,30
+"Coterie Insurance",30
+CTO.ai,30
+CyCognito,30
+DataRails,30
+Deepwatch,30
+Detectify,30
+Earnix,30
+Edifecs,30
+Embroker,30
+Emotive,30
+EquityZen,30
+Ermetic,30
+Fi.Money,30
+FiscalNote,30
+Fittr,30
+Flutterwave,30
+Gather,30
+Getta,30
+Glowforge,30
+HomeLane,30
+Hunty,30
+Hydrow,30
+Impala,30
+Lawgeex,30
+Lusha,30
+Medsaf,30
+"Mensa Brands",30
+MoonPay,30
+Nav,30
+Nestcoin,30
+OKCredit,30
+Overtime,30
+"Pecan AI",30
+People.ai,30
+Personetics,30
+Rapyd,30
+Replit,30
+Roblox,30
+Samsung,30
+"Sauce Labs",30
+Skai,30
+SQream,30
+"Starship Technologies",30
+Superloop,30
+"Syft Technologies",30
+Synapsica,30
+Tanium,30
+TCR2,30
+Teampay,30
+Thread,30
+Tomorrow,30
+Trigo,30
+"True Anomaly",30
+"Twine Solutions",30
+Veem,30
+Waze,30
+Worksmith,30
+"Xiaomi India",30
+Zencity,30
+"Apartment List",29
+Cabify,29
+"Catena Media",29
+Chessable,29
+GoTo,29
+Matrixport,29
+Plato,29
+SchoolMint,29
+Shef,29
+Tickertape,29
+Uncapped,29
+"Vesalius Therapeutics",29
+Bakkt,28
+Betterment,28
+Cadre,28
+Cowbell,28
+Moovel,28
+Quanto,28
+SellerX,28
+Stint,28
+Tally,28
+Tilia,28
+Torii,28
+Zum,28
+At-Bay,27
+Brave,27
+Demandbase,27
+LearnUpon,27
+Lithic,27
+PayJoy,27
+SafeGraph,27
+Sendle,27
+"Transmit Security",27
+Vendease,27
+Artnight,26
+Briza,26
+"Chia Network",26
+Foxtrot,26
+Humu,26
+Integrate.ai,26
+"Lucira Health",26
+Preply,26
+"Upside Foods",26
+Wordstream,26
+Armis,25
+Brainly,25
+BVAccel,25
+Cart.com,25
+Code42,25
+Glisser,25
+HighRadius,25
+IRL,25
+Kickstarter,25
+Loftsmart,25
+"Loja Integrada",25
+ResearchGate,25
+TradeWindow,25
+UpScalio,25
+Vise,25
+Workable,25
+CrowdStreet,24
+Drop,24
+Exterro,24
+Flipboard,24
+Heroes,24
+Hodinkee,24
+Niche,24
+Plume,24
+Revelate,24
+Rivos,24
+Sourcegraph,24
+Stax,24
+SundaySky,24
+"The Messenger",24
+"Thirty Madison",24
+TIFIN,24
+Tome,24
+Transfix,24
+Truiloo,24
+Xolo,24
+Allbirds,23
+"Antidote Health",23
+Aspire,23
+BusBud,23
+Dover,23
+"Genome Medical",23
+GoSpotCheck,23
+iCAD,23
+Kuda,23
+Legible,23
+Splice,23
+Stedi,23
+Superhuman,23
+Tonkean,23
+Centr,22
+"Citrine Informatics",22
+Clyde,22
+CommonBond,22
+"Credit Sesame",22
+GoBear,22
+InVision,22
+"Magic Eden",22
+Pipl,22
+Sherpa,22
+Sorare,22
+TextNow,22
+BlissClub,21
+Gitpod,21
+"Ninja Van",21
+Pocketmath,21
+Shakepay,21
+StellarAlgo,21
+Teamwork,21
+Addepar,20
+Albert,20
+AngelList,20
+Argyle,20
+Atera,20
+"Bleacher Report",20
+Cohere,20
+Crayon,20
+Deepgram,20
+Drip,20
+Eatsy,20
+Factorial,20
+FlexCar,20
+GrayMeta,20
+Identiq,20
+Immutable,20
+InfoSum,20
+"Insider Intelligence",20
+JetClosing,20
+Karma,20
+Moovit,20
+NuoDB,20
+Ocavu,20
+Opal,20
+"Perimeter 81",20
+Privitar,20
+Quidax,20
+"Sales Boomerang",20
+Shipsi,20
+Sightful,20
+Solarisbank,20
+"Stability AI",20
+Stream,20
+"Tamara Mellon",20
+"The Sill",20
+Thimble,20
+Toothsi,20
+TravelBank,20
+TytoCare,20
+Virgio,20
+Xentral,20
+#Paid,19
+AU10TIX,19
+CoinTracker,19
+Intersect,19
+Stytch,19
+UPshow,19
+"Wint Wealth",19
+FamPay,18
+Glitch,18
+HealthMatch,18
+Homebot,18
+Kenoby,18
+Lendis,18
+Opencare,18
+Pana,18
+Rows,18
+Sharethrough,18
+Tidepool,18
+Yonder,18
+Amplero,17
+Anagram,17
+Clearbanc,17
+"Community Gaming",17
+Connected,17
+Crossbeam,17
+G2,17
+Sensibill,17
+Shein,17
+Synctera,17
+Ynsect,17
+Zenoti,17
+Avocargo,16
+Baton,16
+ContraFect,16
+EverC,16
+"Finite State",16
+FreightWaves,16
+Help.com,16
+Inuitive,16
+Koinly,16
+"OFFOR Health",16
+Rhumbix,16
+SeekOut,16
+"TRM Labs",16
+Airtame,15
+"Atlas Obscura",15
+Boost,15
+Borrowell,15
+"Clarify Health",15
+DataStax,15
+Forma.ai,15
+"Horizn Studios",15
+Kaleidoscope,15
+"Kodiak Robotics",15
+Koho,15
+Retention.com,15
+"Roblox China",15
+Seedr,15
+Smallcase,15
+Teleport,15
+Triplebyte,15
+Usermind,15
+Vouch,15
+Walnut,15
+"Finleap Connect",14
+"G/O Media Group",14
+"Lighthouse Labs",14
+OpenWeb,14
+PayScale,14
+"Treasure Financial",14
+Arc,13
+Bridgit,13
+Consider.co,13
+Fable,13
+GrabCAD,13
+"Ladder Life",13
+Limelight,13
+"No Fluff Jobs",13
+"Politico / Protocol",13
+Substack,13
+"Sword Health",13
+Syte,13
+"The Org",13
+Tor,13
+"Vivian Health",13
+"100 Thieves",12
+Abra,12
+BookClub,12
+CNET,12
+"Descartes Labs",12
+Dooly,12
+DSCO,12
+Hedvig,12
+Jama,12
+Kongregate,12
+MakerBot,12
+MVPindex,12
+Pliops,12
+PubMatic,12
+Anywell,11
+Compete,11
+Cypress.io,11
+Deadspin,11
+GetNinjas,11
+Loopio,11
+Venngage,11
+Bringg,10
+CoinJar,10
+"Digital Currency Gruop",10
+Dotscience,10
+"Element Analytics",10
+"Her Campus Media",10
+Humane,10
+Humble,10
+Ike,10
+Nori,10
+PerkSpot,10
+Polarr,10
+Slite,10
+Swyft,10
+"Tapps Games",10
+Tripbam,10
+"Welkin Health",10
+Xerpa,10
+&Open,9
+Andgo,9
+BitOasis,9
+"Incredible Health",9
+"Iris Nova",9
+Captiv8,8
+Center,8
+CodeCombat,8
+Docly,8
+HopSkipDrive,8
+JupiterOne,8
+Kinde,8
+LoopMe,8
+"Voyage SMS",8
+"Coding Dojo",7
+Expert360,7
+TechCrunch,7
+Atsu,6
+Character.ai,6
+Dark,6
+Instamojo,6
+Jiobit,6
+Mara,6
+"Panda Squad",6
+"Simon Data",6
+"Avantage Entertainment",5
+Aya,5
+DialSource,5
+Geekwire,5
+"Glean AI",5
+Havenly,5
+Synergysuite,5
+Woven,5
+Flytedesk,4
+Spyce,4
+TutorMundi,4
+2U,NULL
+"5B Solar",NULL
+"80 Acres Farms",NULL
+98point6,NULL
+ActiveCampaign,NULL
+Actyv.ai,NULL
+Air,NULL
+Airlift,NULL
+"Airy Rooms",NULL
+Aiven,NULL
+"Akili Interactive",NULL
+Akudo,NULL
+"ALI Technologies",NULL
+"Alibaba Cloud",NULL
+Alma,NULL
+"Amber Group",NULL
+Anar,NULL
+AnswerLab,NULL
+Anyline,NULL
+Apollo,NULL
+"Apollo Insurance",NULL
+Appcues,NULL
+AppHarvest,NULL
+"Arch Oncology",NULL
+Artifact,NULL
+Assure,NULL
+"Astrate Medical",NULL
+"Atlanta Tech Village",NULL
+Attentive,NULL
+"Aura Financial",NULL
+Aurora,NULL
+Automatic,NULL
+Automox,NULL
+"Ava Labs",NULL
+Avast,NULL
+Awok,NULL
+Ayoconnect,NULL
+"Bally's Interactive",NULL
+Baraja,NULL
+Beamery,NULL
+"Belora Paris",NULL
+"Benitago Group",NULL
+"Berkeley Lights",NULL
+"Better Therapeutics",NULL
+"Big Cabal Media",NULL
+BigBear.ai,NULL
+Bilibili,NULL
+Bill.com,NULL
+Bitfront,NULL
+BitGo,NULL
+Bitrise,NULL
+Bizpay,NULL
+"Blue Apron",NULL
+Blueboard,NULL
+Bluelearn,NULL
+Bluepad,NULL
+"BM Technologies",NULL
+"Boosted Commerce",NULL
+"Bowery Farming",NULL
+Braid,NULL
+Brightline,NULL
+Brilliant,NULL
+Brodmann17,NULL
+Buildertrend,NULL
+"Built Technologies copy",NULL
+"Bundle Africa",NULL
+Bunnii,NULL
+"Business Insider",NULL
+"Butterfly Network",NULL
+"Butterfly Network copy",NULL
+Buzzer,NULL
+Cabin,NULL
+"Cake Bikes",NULL
+"Camp K12",NULL
+Cana,NULL
+Capsule,NULL
+CapWay,NULL
+Carsome,NULL
+Casavo,NULL
+"Castlight Health",NULL
+Catch,NULL
+Cedar,NULL
+Cellulant,NULL
+"Change Invest",NULL
+Change.org,NULL
+"Circulo Health",NULL
+Clockwork,NULL
+CloudFactory,NULL
+Clubhouse,NULL
+Clutter,NULL
+CoachHub,NULL
+CodeSee,NULL
+Codexis,NULL
+CoLab,NULL
+Collage.com,NULL
+Comparis,NULL
+ComplYant,NULL
+Conga,NULL
+ConnectedH,NULL
+"Core Scientific",NULL
+"Corvus Insurance",NULL
+Cova,NULL
+Creditas,NULL
+Curalie,NULL
+CyberProof,NULL
+"Cyteir Therapeutics",NULL
+D2L,NULL
+DailyPay,NULL
+Dance,NULL
+Daraz,NULL
+Dash,NULL
+Dastgyr,NULL
+Datera,NULL
+Datree,NULL
+Daylight,NULL
+DayTwo,NULL
+"dbt Labs",NULL
+"Deep Instinct",NULL
+Degreed,NULL
+DeHaat,NULL
+"Desktop Metal",NULL
+Devo,NULL
+"Dextrous Robotics",NULL
+"Digital Surge",NULL
+Dispatch,NULL
+Docker,NULL
+"Domino Data Lab",NULL
+Domio,NULL
+dot.LA,NULL
+DoubleCloud,NULL
+Doubtnut,NULL
+DriveWealth,NULL
+"Duck Creek Technologies",NULL
+"Dude Solutions",NULL
+"DUX Education",NULL
+DwellWell,NULL
+dYdX,NULL
+"Earth Rides",NULL
+"Editas Medicine",NULL
+Edmodo,NULL
+"Eight Sleep",NULL
+Elastic,NULL
+Element,NULL
+Elliptic,NULL
+"Engine eCommerce",NULL
+EQRx,NULL
+Esper,NULL
+"Euler Motors",NULL
+Eventus,NULL
+Everlaw,NULL
+Everledger,NULL
+Everybuddy,NULL
+Exabeam,NULL
+Exosonic,NULL
+Eyowo,NULL
+Fandom,NULL
+Fast,NULL
+Fastly,NULL
+"Faze Medicines",NULL
+"FemTech Health",NULL
+Filmic,NULL
+Fipola,NULL
+Firework,NULL
+Fisker,NULL
+Fission,NULL
+"Fit Analytics",NULL
+Fivetran,NULL
+Flowhub,NULL
+Flowr,NULL
+"Flux Systems",NULL
+"Foresight Insurance",NULL
+Formstack,NULL
+"Frequency Therapeutics",NULL
+Frubana,NULL
+Fuzzy,NULL
+Gated,NULL
+Gatherly,NULL
+Gavelytics,NULL
+GitHub,NULL
+Glassbox,NULL
+GloriFi,NULL
+GoMechanic,NULL
+GoNuts,NULL
+GoodGood,NULL
+GoodWorker,NULL
+Gousto,NULL
+GoWild,NULL
+Greenikk,NULL
+"Grove Collaborative",NULL
+Guidewire,NULL
+HackerEarth,NULL
+HackerOne,NULL
+"Halcyon Health",NULL
+Haus,NULL
+Here,NULL
+Heygo,NULL
+"Hinge Health",NULL
+Hipcamp,NULL
+HomeLight,NULL
+Homeward,NULL
+Honor,NULL
+"Hooray Foods",NULL
+HubHaus,NULL
+"Huuuge Games",NULL
+Hypefast,NULL
+"Hyperloop One",NULL
+Ignite,NULL
+Ignition,NULL
+Improbable,NULL
+"Included Health",NULL
+Increff,NULL
+inDrive,NULL
+Inscribe,NULL
+Insider,NULL
+InsurStaq.ai,NULL
+Iress,NULL
+iSpecimen,NULL
+Jamf,NULL
+Jane,NULL
+Jellyfish,NULL
+Joonko,NULL
+"Jounce Therapeutics",NULL
+Journera,NULL
+"Juniper Square",NULL
+Kaiyo,NULL
+Kandela,NULL
+Kandji,NULL
+Kaodim,NULL
+Karakuki,NULL
+Karbon,NULL
+Karhoo,NULL
+Karshare,NULL
+Kaspien,NULL
+Kazoo,NULL
+Kevin,NULL
+Kinaxis,NULL
+Kite,NULL
+"Kleos Space",NULL
+KnownOrigin,NULL
+Kune,NULL
+Kyte,NULL
+L1ght,NULL
+Ladenzeile,NULL
+Lantern,NULL
+Lazerpay,NULL
+"Le Tote",NULL
+Ledger,NULL
+"Ledger Investing",NULL
+"Lido Learning",NULL
+Life360,NULL
+Limeade,NULL
+LiveRamp,NULL
+LiveVox,NULL
+Locomation,NULL
+Longi,NULL
+"Lora DiCarlo",NULL
+"Lordstown Motors",NULL
+"Lucid Diagnostics",NULL
+"Lumina Networks",NULL
+Lunchtime,NULL
+Lunya,NULL
+"Made Renovation",NULL
+Made.com,NULL
+Madefire,NULL
+Magnite,NULL
+Mainvest,NULL
+Marqeta,NULL
+Masse,NULL
+"Match Group",NULL
+"Matter Labs",NULL
+"May Mobility",NULL
+Meati,NULL
+"Meati Foods",NULL
+Medium,NULL
+Medly,NULL
+Memmo,NULL
+Merama,NULL
+"Mercari U.S.",NULL
+MeridianLink,NULL
+Messari,NULL
+Migo,NULL
+"Mister Spex",NULL
+"Mobius Motors",NULL
+"Mode Global",NULL
+"Modern Treasury",NULL
+"Mojo Vision",NULL
+"Motif Foodworks",NULL
+"Motif Investing",NULL
+"Mozilla Foundation",NULL
+"Mr. Yum",NULL
+Mudafy,NULL
+Multiverse,NULL
+"Muni Tienda",NULL
+Mutiny,NULL
+Muvin,NULL
+"Mythical Games",NULL
+NanoString,NULL
+"National Instruments",NULL
+Nativo,NULL
+NCSoft,NULL
+NCX,NULL
+Nearmap,NULL
+"Neoleukin Therapeutics",NULL
+NerdWallet,NULL
+Nerdy,NULL
+Nextdoor,NULL
+Nextiva,NULL
+NextRoll,NULL
+NIO,NULL
+"Nirvana Money",NULL
+Nomad,NULL
+"Notable Labs",NULL
+"Nova Benefits",NULL
+Nowadays,NULL
+Nowports,NULL
+Nyriad,NULL
+"Octopus Network",NULL
+Oddle,NULL
+Offerpad,NULL
+OfferUp,NULL
+OneStudyTeam,NULL
+OPay,NULL
+OpenClassrooms,NULL
+OpenSea,NULL
+Opora,NULL
+OSlash,NULL
+Ouster,NULL
+"Ozy Media",NULL
+Paddle,NULL
+PagerDuty,NULL
+PagSeguro,NULL
+Panther,NULL
+Papa,NULL
+Pastel,NULL
+Pax8,NULL
+Pebble,NULL
+Pebblepost,NULL
+Peerfit,NULL
+"Perceptive Automata",NULL
+Personalis,NULL
+Pesto,NULL
+Petal,NULL
+PhableCare,NULL
+PicoBrew,NULL
+Pivo,NULL
+Plerk,NULL
+"Plus One Robotics",NULL
+Podium,NULL
+Poparazzi,NULL
+Popin,NULL
+Poshmark,NULL
+Presto,NULL
+"Prime Trust",NULL
+Prisma,NULL
+"Product Hunt",NULL
+Propzy,NULL
+Prosus,NULL
+"Protego Trust Bank",NULL
+Protonn,NULL
+Providoor,NULL
+Purse,NULL
+Qin1,NULL
+Quadream,NULL
+"Quantum SI",NULL
+Quibi,NULL
+Quizac,NULL
+Quizy,NULL
+Qwick,NULL
+Qyuki,NULL
+R3,NULL
+"Ranger Insurance",NULL
+"RDX Works",NULL
+Reach,NULL
+"Rebel Foods",NULL
+Recast,NULL
+Received,NULL
+RedDoorz,NULL
+"Regrow Ag",NULL
+ReshaMandi,NULL
+Retool,NULL
+Rezi,NULL
+"Rigetti Computing",NULL
+Ro,NULL
+Roofstock,NULL
+Rubica,NULL
+"Rubicon Technologies",NULL
+"Running Tide",NULL
+SADA,NULL
+SadaPay,NULL
+Sampler,NULL
+Sana,NULL
+Sayurbox,NULL
+"Scale AI",NULL
+"SCiFi Foods",NULL
+Scoro,NULL
+SendCloud,NULL
+Sendoso,NULL
+SentinelOne,NULL
+Service,NULL
+Sezzle,NULL
+Shift,NULL
+ShipBob,NULL
+Shipt,NULL
+ShopX,NULL
+Side,NULL
+Silo,NULL
+Silofit,NULL
+Simple,NULL
+"Singular Genomics",NULL
+Slync,NULL
+"Small Robot Company",NULL
+SmartAsset,NULL
+SmileDirectClub,NULL
+Snapdocs,NULL
+Sorabel,NULL
+SoundCloud,NULL
+Soundwide,NULL
+"Spora Health",NULL
+Sportradar,NULL
+Springlane,NULL
+Sproutt,NULL
+"SQZ Biotech",NULL
+Stackpath,NULL
+Starburst,NULL
+Starship,NULL
+"Stellar Pizza",NULL
+"Stockwell AI",NULL
+StoryBlocks,NULL
+Strake,NULL
+Strava,NULL
+StyleSeat,NULL
+Subspace,NULL
+Sundae,NULL
+Sunfolding,NULL
+SuperLearn,NULL
+SuperRare,NULL
+SweetEscape,NULL
+Synlogic,NULL
+Tackle,NULL
+"Talis Biomedical",NULL
+Talkwalker,NULL
+Tenable,NULL
+Teradata,NULL
+Tessera,NULL
+"The Modist",NULL
+Thepeer,NULL
+Thursday,NULL
+TicketSwap,NULL
+Tiki,NULL
+Toplyne,NULL
+Toucan,NULL
+Tray.io,NULL
+"Trend Micro",NULL
+Tricida,NULL
+"Truck It In",NULL
+Turntide,NULL
+Twig,NULL
+TwinStrand,NULL
+Uleet,NULL
+"Una Brands",NULL
+"Unchained Capital",NULL
+Unit,NULL
+"Utopia Music",NULL
+Vallai,NULL
+Vanta,NULL
+"Vedanta Biosciences",NULL
+Velocity,NULL
+Vendasta,NULL
+Verse,NULL
+"Vibrent Health",NULL
+"Vicarious Surgical",NULL
+Vimeo,NULL
+"Vista Group",NULL
+"Volt Bank",NULL
+Volta,NULL
+"Volta Trucks",NULL
+Voly,NULL
+Vowel,NULL
+VRChat,NULL
+Wallbox,NULL
+Wavely,NULL
+Webflow,NULL
+WeFit,NULL
+WeTrade,NULL
+Whispir,NULL
+WhyHotel,NULL
+Wisense,NULL
+Workfellow,NULL
+Wyre,NULL
+Yabonza,NULL
+Yext,NULL
+YourGrocer,NULL
+Yummly,NULL
+"Zapata Computing",NULL
+Zapier,NULL
+Zapp,NULL
+Zappos,NULL
+ZenLedger,NULL
+Zepto,NULL
+Zhihu,NULL
+Ziroom,NULL
+Zoe,NULL
+Zola,NULL
+Zuora,NULL
+Zylo,NULL
