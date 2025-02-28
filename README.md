@@ -5,7 +5,9 @@
 ## Table of Contents  
 1. [Project Overview](#project-overview)  
 2. [Dataset](#dataset)  
-3. [Key Findings](#key-findings)  
+3. [SQL Queries](#sql-queries)  
+4. [Outputs](#outputs)  
+5. [Key Findings](#key-findings)  
     - [Date Range of Layoff Data](#date-range-of-layoff-data)  
     - [Largest Layoffs](#largest-layoffs)  
     - [Companies with Entire Workforce Laid Off](#companies-with-entire-workforce-laid-off)  
@@ -16,11 +18,11 @@
     - [Total Layoffs by Year](#total-layoffs-by-year)  
     - [Layoffs by Company Stage](#layoffs-by-company-stage)  
     - [Top Layoff Companies by Year](#top-layoff-companies-by-year)  
-4. [Methodology](#methodology)  
-5. [Conclusion](#conclusion)  
-6. [Future Work](#future-work)  
-7. [How to Use This Project](#how-to-use-this-project)
-8. [Contact](#contact)
+6. [Methodology](#methodology)  
+7. [Conclusion](#conclusion)  
+8. [Future Work](#future-work)  
+9. [How to Use This Project](#how-to-use-this-project)  
+10. [Contact](#contact)  
 
 ---
 
@@ -46,6 +48,46 @@ The dataset used in this project is named `layoffs_staging2`, which contains inf
 - Number of employees laid off (`total_laid_off`)
 - Percentage of employees laid off (`percentage_laid_off`)
 - Company stage (e.g., startup, post-IPO, etc.)
+
+---
+
+## SQL Queries
+
+The SQL queries used for this analysis are provided in the **`Exploratory Data Analysis for 2022 Layoffs.sql`** file within this repository. This file contains all the queries used to extract insights from the dataset, covering:
+
+- **Aggregations**: `SUM`, `MAX`, `MIN`  
+- **Grouping & Ordering**: `GROUP BY`, `ORDER BY`  
+- **Ranking Functions**: `DENSE_RANK`, `RANK`  
+- **Rolling Totals & Cumulative Sums**  
+- **Common Table Expressions (CTEs)**  
+
+### How to Use  
+1. Load the dataset into **MySQL**.  
+2. Open the `Exploratory Data Analysis for 2022 Layoffs.sql` file.  
+3. Execute the queries to analyze the dataset.  
+
+---
+
+
+## Outputs
+
+The results of the SQL queries have been saved in the `outputs` folder of this repository. These files contain key insights derived from the analysis, including:
+
+1. **Total Layoffs by Year** – Breakdown of layoffs per year.  
+2. **Total Layoffs by Industry** – Summarized layoffs across different industries.  
+3. **Total Layoffs by Country** – Layoffs categorized by country.  
+4. **Total Layoffs by Date** – Layoffs recorded on specific dates.  
+5. **Total Layoffs by Month Each Year** – Layoffs aggregated by month within each year.  
+6. **Rolling Total by Each Month** – Cumulative layoffs calculated per month.  
+7. **Total Layoffs by Stage** – Analysis of layoffs based on company growth stage.  
+8. **Layoffs by Companies per Year** – Company-wise layoffs reported each year.  
+9. **Ranking of Total Layoffs by Companies per Year** – Companies ordered by total layoffs per year.  
+10. **Dense Rank of Layoffs by Companies per Year** – Layoff rankings using a dense ranking method.  
+11. **Top 5 Companies per Year** – The five companies with the highest layoffs each year.  
+12. **Largest Layoffs** – Companies with the highest number of layoffs in a single event.  
+13. **Companies with Entire Workforce Laid Off** – List of companies that laid off 100% of their employees.  
+
+These outputs provide a structured way to review key trends and insights found in the dataset.
 
 ---
 
