@@ -5,9 +5,10 @@
 ## Table of Contents  
 1. [Project Overview](#project-overview)  
 2. [Dataset](#dataset)  
-3. [SQL Queries](#sql-queries)  
-4. [Outputs](#outputs)  
-5. [Key Findings](#key-findings)  
+3. [SQL Queries](#sql-queries)
+4. [Methodology](#methodology)
+5. [Outputs](#outputs)  
+6. [Key Findings](#key-findings)  
     - [Date Range of Layoff Data](#date-range-of-layoff-data)  
     - [Largest Layoffs](#largest-layoffs)  
     - [Companies with Entire Workforce Laid Off](#companies-with-entire-workforce-laid-off)  
@@ -17,8 +18,7 @@
     - [Dates with the Highest Total Layoffs](#dates-with-the-highest-total-layoffs)  
     - [Total Layoffs by Year](#total-layoffs-by-year)  
     - [Layoffs by Company Stage](#layoffs-by-company-stage)  
-    - [Top Layoff Companies by Year](#top-layoff-companies-by-year)  
-6. [Methodology](#methodology)  
+    - [Top Layoff Companies by Year](#top-layoff-companies-by-year)    
 7. [Conclusion](#conclusion)  
 8. [Future Work](#future-work)  
 9. [How to Use This Project](#how-to-use-this-project)  
@@ -61,10 +61,14 @@ The SQL queries used for this analysis are provided in the **`Exploratory Data A
 - **Rolling Totals & Cumulative Sums**  
 - **Common Table Expressions (CTEs)**  
 
-### How to Use  
-1. Load the dataset into **MySQL**.  
-2. Open the `Exploratory Data Analysis for 2022 Layoffs.sql` file.  
-3. Execute the queries to analyze the dataset.  
+---
+
+## Methodology
+This analysis was conducted using MySQL queries, without the use of data visualization tools. The queries include:
+- Aggregations (SUM, MAX, MIN)
+- Grouping and ordering (GROUP BY, ORDER BY)
+- Window functions (DENSE_RANK for ranking companies by year)
+- CTEs (Common Table Expressions) for rolling totals and rankings
 
 ---
 
@@ -106,81 +110,72 @@ These outputs provide a structured way to review key trends and insights found i
 
 ### Companies with the Highest Total Layoffs
 | Company     | Total Laid Off |
-|------------|---------------|
-| Amazon     | 27,840        |
-| Meta       | 21,000        |
-| Intel      | 16,057        |
-| Microsoft  | 14,708        |
-| Tesla      | 14,500        |
-| Cisco      | 14,300        |
-| Google     | 13,472        |
-| Dell       | 12,650        |
-| Salesforce | 11,140        |
-| SAP        | 11,000        |
+|:------------|---------------:|
+| Amazon      | 27,840         |
+| Meta        | 21,000         |
+| Intel       | 16,057         |
+| Microsoft   | 14,708         |
+| Tesla       | 14,500         |
+| Cisco       | 14,300         |
+| Google      | 13,472         |
+| Dell        | 12,650         |
+| Salesforce  | 11,140         |
+| SAP         | 11,000         |
 
 ### Industries with the Highest Total Layoffs
 | Industry       | Total Laid Off |
-|---------------|---------------|
-| Retail        | 71,703        |
-| Consumer      | 71,046        |
-| Other         | 61,912        |
-| Transportation| 60,548        |
-| Hardware      | 54,870        |
+|:---------------|---------------:|
+| Retail         | 71,703         |
+| Consumer       | 71,046         |
+| Other          | 61,912         |
+| Transportation | 60,548         |
+| Hardware       | 54,870         |
 
 ### Countries with the Highest Total Layoffs
 | Country         | Total Laid Off |
-|---------------|---------------|
-| United States  | 455,331       |
-| India         | 56,469        |
-| Germany       | 28,572        |
-| United Kingdom| 20,090        |
-| Netherlands   | 19,005        |
+|:----------------|---------------:|
+| United States   | 455,331        |
+| India           | 56,469         |
+| Germany         | 28,572         |
+| United Kingdom  | 20,090         |
+| Netherlands     | 19,005         |
 
 ### Dates with the Highest Total Layoffs
 | Date        | Total Laid Off |
-|------------|---------------|
-| 2023-01-04 | 16,171        |
-| 2024-08-01 | 15,180        |
-| 2022-11-16 | 14,926        |
-| 2023-01-20 | 14,682        |
-| 2024-04-15 | 14,000        |
+|:------------|---------------:|
+| 2023-01-04  | 16,171         |
+| 2024-08-01  | 15,180         |
+| 2022-11-16  | 14,926         |
+| 2023-01-20  | 14,682         |
+| 2024-04-15  | 14,000         |
 
 ### Total Layoffs by Year
 | Year | Total Laid Off |
-|------|---------------|
-| 2024 | 149,006       |
-| 2023 | 264,220       |
-| 2022 | 164,319       |
-| 2021 | 15,823        |
-| 2020 | 80,998        |
+|:-----|---------------:|
+| 2024 | 149,006        |
+| 2023 | 264,220        |
+| 2022 | 164,319        |
+| 2021 | 15,823         |
+| 2020 | 80,998         |
 
 - **2023 saw the highest number of layoffs overall.**
 - The **high layoff numbers in 2020** may be due to COVID-19 lockdowns.
 
 ### Layoffs by Company Stage
 | Stage     | Total Laid Off |
-|----------|---------------|
-| Post-IPO | 375,102       |
+|:----------|---------------:|
+| Post-IPO  | 375,102        |
 
 - **Post-IPO companies** had the highest total layoffs.
 
 ### Top Layoff Companies by Year
 | Year | Company   | Total Laid Off |
-|------|----------|---------------|
-| 2020 | Uber     | *Highest*      |
-| 2021 | Bytedance| *Highest*      |
-| 2022 | Meta     | *Highest*      |
-| 2023 | Amazon   | *Highest*      |
-| 2024 | Intel    | *Highest*      |
-
----
-
-## Methodology
-This analysis was conducted using MySQL queries, without the use of data visualization tools. The queries include:
-- Aggregations (SUM, MAX, MIN)
-- Grouping and ordering (GROUP BY, ORDER BY)
-- Window functions (DENSE_RANK for ranking companies by year)
-- CTEs (Common Table Expressions) for rolling totals and rankings
+|:-----|:----------|---------------:|
+| 2020 | Uber      | 7,525          |
+| 2021 | Bytedance | 3,600          |
+| 2022 | Meta      | 11,000         |
+| 2023 | Amazon    | 17,260         |
+| 2024 | Intel     | 15,062         |
 
 ---
 
@@ -197,9 +192,10 @@ This EDA provides insights into layoff trends across industries, countries, and 
 ---
 
 ## How to Use This Project
-1. Clone the repository.
-2. Load the dataset into MySQL.
-3. Run the provided SQL queries to explore the dataset.
+1. **Clone the repository** to your local machine.
+2. **Load the dataset** into MySQL.
+3. **Run the provided SQL queries** in the `Exploratory Data Analysis for 2022 Layoffs.sql` file to explore the dataset.
+4. Review the **outputs** in the `Outputs` folder for key insights and trends.
 
 ---
 
