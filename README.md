@@ -1,6 +1,6 @@
 <img src="https://cdn.activestate.com/wp-content/uploads/2019/08/exploratory-data-analysis-using-python-blog-hero.jpg" width="100%">
 
-# Exploratory Data Analysis (EDA) of 2022 Layoffs
+# Exploratory Data Analysis (EDA) of Layoffs
 
 ## Table of Contents  
 1. [Project Overview](#project-overview)  
@@ -34,7 +34,7 @@ This project performs an exploratory data analysis (EDA) on a dataset containing
 ## Dataset
 The dataset used in this project is a **cleaned version** of layoff data, which was processed in my previous project:  
 
-🔗 **[Data Cleaning for 2022 Layoffs](https://github.com/busesimsek/SQL-Data-Cleaning-Project)**  
+🔗 **[Data Cleaning for Layoffs](https://github.com/busesimsek/SQL-Data-Cleaning-Project)**  
 
 The cleaned dataset is available in this repository as:
 
@@ -53,7 +53,7 @@ The dataset used in this project is named `layoffs_staging2`, which contains inf
 
 ## SQL Queries
 
-The SQL queries used for this analysis are provided in the **`Exploratory Data Analysis for 2022 Layoffs.sql`** file within this repository. This file contains all the queries used to extract insights from the dataset, covering:
+The SQL queries used for this analysis are provided in the **`Exploratory Data Analysis for Layoffs.sql`** file within this repository. This file contains all the queries used to extract insights from the dataset, covering:
 
 - **Aggregations**: `SUM`, `MAX`, `MIN`  
 - **Grouping & Ordering**: `GROUP BY`, `ORDER BY`  
@@ -194,7 +194,7 @@ This EDA provides insights into layoff trends across industries, countries, and 
 ## How to Use This Project
 1. **Clone the repository** to your local machine.
 2. **Load the dataset** into MySQL.
-3. **Run the provided SQL queries** in the `Exploratory Data Analysis for 2022 Layoffs.sql` file to explore the dataset.
+3. **Run the provided SQL queries** in the `Exploratory Data Analysis for Layoffs.sql` file to explore the dataset.
 4. Review the **outputs** in the `Outputs` folder for key insights and trends.
 
 ---
